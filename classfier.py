@@ -318,7 +318,7 @@ class classifier:
             cls = classification[i]
             for j in documents[i]:
                 #print "j: ", j, "cls: ", cls
-                if invert_terms[j][cls] >= max_score[cls] * 0.5:                
+                if invert_terms[j][cls] >= max_score[cls] * 0.45:                
                     new_documents[i].append(j)
             if new_documents[i] == []:
                 cnt += 1
@@ -336,6 +336,7 @@ class classifier:
                     print i, doc
 
     def calculate_df_in_classes(self):
+        """calculate how many documents a term appear in each class"""
         for doc in self.doc_words:
             cls = self.train_vec[doc]
             #print doc, self.doc_words[doc]
@@ -380,9 +381,10 @@ class classifier:
         for i in xrange(num_classes):
             count = 0
             for key,value in sorted(self.chi_score[i].iteritems(), key=lambda (k,v): (v,k)):
-                count += 1
+                
                 if count < k:
                     features[i].append(key)
+                count += 1
        
         #print "length of feature_list:", len(self.features)
         print "number of features: ", k
@@ -395,6 +397,9 @@ def main():
     #c1.feature_selection()
     c1.build_tf_idf_feature_selection()
     c1.vectorization()
+#    c1.calculate_df_in_classes()
+#    c1.chi_square()
+#    c1.chi_feature_list(50)
 
     svc1 = c1.svm_train_food()
     c1.svm_test_food(svc1)
@@ -413,8 +418,9 @@ def main():
 
     print "type of self.food_resutls: ", type(c1.food_results), "len:", len(c1.food_results)
     print "type of self.food_results[0]: ", type(c1.food_results[0]), "len:", len(c1.food_results[0])
+    print c1.food_results[0]
     print "type of self.movie_resutls: ", type(c1.movie_results), "len:", len(c1.movie_results)
     print "type of self.movie_results[0]: ", type(c1.movie_results[0]), "len:", len(c1.movie_results[0])
-
+    print c1.movie_results[0]
 if __name__ == '__main__':
     main()
