@@ -1,6 +1,7 @@
 import classifier
+import pickle
 
-def main():
+def class_results():
     print "bbb"
     c1 = classifier.classifier()
     print "aaa"
@@ -25,5 +26,15 @@ def main():
     print "=============the classification results for movie are: ==============="
     for i in c1.movie_results:
         print i['Title'],"\n", i['Content'],"\n"
+
+    return c1.food_results, c1.movie_results
+def main():
+    (food, movie) = class_results()
+    food_txt = pickle.load( open( "food.txt", "rb" ) )
+    movie_txt = pickle.load( open( "movie.txt", "rb" ) )
+    print "food:\n", food_txt
+    print "movie: \n", movie_txt
+    
+
 if __name__ == '__main__':
     main()

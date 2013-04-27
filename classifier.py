@@ -391,6 +391,15 @@ class classifier:
         for i in xrange(num_classes):
             print i, ":",features[i]
         return features
+
+    def write_results(self):
+        f1 = open('food.txt','wb')
+        pickle.dump(self.food_results, f1)
+        f1.close()
+
+        f2 = open('movie.txt', 'wb')
+        pickle.dump(self.movie_results, f2)
+        f2.close()
 def main():
     c1 = classifier()
     #c1.build_tf_idf()
@@ -415,7 +424,8 @@ def main():
     for i in c1.movie_results:
         print i['Title'],"\n", i['Content'],"\n"
 
-
+    c1.write_results()
+    
     print "type of self.food_resutls: ", type(c1.food_results), "len:", len(c1.food_results)
     print "type of self.food_results[0]: ", type(c1.food_results[0]), "len:", len(c1.food_results[0])
     print c1.food_results[0]
