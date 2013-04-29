@@ -1,0 +1,3517 @@
+(lp0
+(dp1
+S'end'
+p2
+S'2012-10-03T13:00:00.000000-0500'
+p3
+sS'Title'
+p4
+VPoetry on the Plaza presents Actors from the London Stage
+p5
+sS'Content'
+p6
+VThe Harry Ransom Center presents the Poetry on the Plaza event "The Poetry of Jacques Prevert" with actor Michael Palmer, who is on tour with Actors from the London Stage and plays Shylock in their current production of "The Merchant of Venice." Refreshments served.\u000a\u000a\u000a\u000aPick up a free poster and bookmark with the 2012-2013 Poetry on the Plaza schedule at the visitor desk in the Ransom Center lobby.\u000a\u000aSource\u000ahttp://www.hrc.utexas.edu
+p7
+sS'start'
+p8
+S'2012-10-03T12:00:00.000000-0500'
+p9
+sS'link'
+p10
+Vhttp://www.hrc.utexas.edu
+p11
+sS'location'
+p12
+VHarry Ransom Center (HRC), plaza
+p13
+sa(dp14
+g2
+S'2012-10-03T21:00:00.000000-0500'
+p15
+sg4
+VIndian Cultural Association holds dance clinic Jhoom
+p16
+sg6
+VLearn how to dance like a Bollywood pro at a clinic teaching two 45-second routines. Free food served to attendees.
+p17
+sg8
+S'2012-10-03T19:00:00.000000-0500'
+p18
+sg10
+Nsg12
+VBellmont Hall (BEL) 502A
+p19
+sa(dp20
+g2
+S'2012-10-04T13:00:00.000000-0500'
+p21
+sg4
+VHearts of Texas fall plant sale announced
+p22
+sg6
+VPlants grown and crafts made by UT Libraries staff are on sale, with all proceeds donated to the Capital Area Food Bank. Plants for the garden, home and office available.\u000a\u000aSource\u000ahttp://www.lib.utexas.edu/calendar/hearts-texas-fall-plant-sale
+p23
+sg8
+S'2012-10-04T08:00:00.000000-0500'
+p24
+sg10
+Vhttp://www.lib.utexas.edu/calendar/hearts-texas-fall-plant-sale
+p25
+sg12
+VPerry-Castaneda Library (PCL), plaza
+p26
+sa(dp27
+g2
+S'2012-10-04T20:00:00.000000-0500'
+p28
+sg4
+VNazar online South Asian magazine holds meeting
+p29
+sg6
+VNazar is an online magazine that serves as an outlet for the South Asian perspective. We seek opinionated writers, photographers and editors of any level. Attend a meeting with Nazar members and learn how you can contribute. Desi refreshments served.\u000a\u000aSource\u000ahttp://nazarmagazine.com/
+p30
+sg8
+S'2012-10-04T19:00:00.000000-0500'
+p31
+sg10
+Vhttp://nazarmagazine.com/
+p32
+sg12
+VStudent Activity Center (SAC) 1.106
+p33
+sa(dp34
+g2
+S'2012-10-18T19:00:00.000000-0500'
+p35
+sg4
+VThird Thursday at COFA topic is study abroad
+p36
+sg6
+VLearn how your study abroad experience could help you get the job you want. This Third Thursday @ COFA session focuses on the transferable skills from your abroad experience and how you can use them to your professional advantage. Free pizza served. \u000a\u000a\u000a\u000aWhether you've already studied abroad, or are simply considering it for the future, don't miss this opportunity.\u000a\u000aSource\u000ahttp://www.facebook.com/events/115764228577533/
+p37
+sg8
+S'2012-10-18T17:30:00.000000-0500'
+p38
+sg10
+Vhttp://www.facebook.com/events/115764228577533/
+p39
+sg12
+VDoty Fine Arts Building (DFA), Co-Op Student Lounge 1.101
+p40
+sa(dp41
+g2
+S'2012-10-19T22:30:00.000000-0500'
+p42
+sg4
+VFest Africa 2012 announced
+p43
+sg6
+VFest Africa is a showcase put on by the African Students Association every year celebrating the diversity and accomplishments of the African continent and its peoples. Music, dancing, food and fun make for an unforgettable night.
+p44
+sg8
+S'2012-10-19T19:00:00.000000-0500'
+p45
+sg10
+Nsg12
+VMain Mall
+p46
+sa(dp47
+g2
+S'2012-10-30T16:00:00.000000-0500'
+p48
+sg4
+VSoles4Souls holds pledge event, with donuts
+p49
+sg6
+VSoles4Souls aims to raise awareness for the 1.5 billion people around the world without shoes. Make a footprint and sign your name as a pledge to donate during our annual post-Thanksgiving shoe drive. Free Round Rock Donuts served. Follow us at #BAREFOOTBANNER. To volunteer, attend a brief meeting on Oct. 25, at 8 p.m in CBA 4.348.\u000a\u000aSource\u000ahttp://www.facebook.com/events/292459174202889/
+p50
+sg8
+S'2012-10-30T11:00:00.000000-0500'
+p51
+sg10
+Vhttp://www.facebook.com/events/292459174202889/
+p52
+sg12
+VGregory Gym Plaza (GRE)
+p53
+sa(dp54
+g2
+S'2012-11-08T20:00:00.000000-0600'
+p55
+sg4
+VPaint. Play. Plié. is Classical Reinvention performance
+p56
+sg6
+VClassical Reinvention presents a thrilling collaboration among musicians, dancers and visual artists. Audience members are free to chat and walk around the FAB Gallery and are even encouraged to participate in the production by depicting it through visual media. Free food served.\u000a\u000aSource\u000ahttps://sites.google.com/site/perrinmjacqueline/classical-reinvention
+p57
+sg8
+S'2012-11-08T19:00:00.000000-0600'
+p58
+sg10
+Vhttps://sites.google.com/site/perrinmjacqueline/classical-reinvention
+p59
+sg12
+VDoty Fine Arts Building (DFA), FAB Gallery 1.103
+p60
+sa(dp61
+g2
+S'2012-11-10T23:00:00.000000-0600'
+p62
+sg4
+VFront & Center presents "We Are Yours" showcase
+p63
+sg6
+VFront & Center, a new performing and visual arts organizations, presents its first showcase, "We Are Yours." Doors open at 5:30 p.m. Free food served.\u000a\u000aSource\u000ahttps://www.facebook.com/events/424453064283670/
+p64
+sg8
+S'2012-11-10T19:00:00.000000-0600'
+p65
+sg10
+Vhttps://www.facebook.com/events/424453064283670/
+p66
+sg12
+VStudent Activity Center (SAC), auditorium
+p67
+sa(dp68
+g2
+S'2012-11-11T23:30:00.000000-0600'
+p69
+sg4
+VTexas Student Media's "Local Live" presents Levi Weaver
+p70
+sg6
+VKVRX and TSTV proudly present "Local Live." Be part of a live taping and TV/radio broadcast for solo artist Levi Weaver. The free concert with live audience taping includes food and refreshments. Wristbands are available from Thursday, Nov. 8, at 1 p.m. and all day Friday at HSM.\u000a\u000aSource\u000ahttps://www.facebook.com/events/107586826072168/
+p71
+sg8
+S'2012-11-11T21:30:00.000000-0600'
+p72
+sg10
+Vhttps://www.facebook.com/events/107586826072168/
+p73
+sg12
+VHearst Building (HSM), 4th floor studio
+p74
+sa(dp75
+g2
+S'2012-11-13T14:00:00.000000-0600'
+p76
+sg4
+VLiberal Arts Council presents "Oh the Places You'll Go!"
+p77
+sg6
+VLearn about study and work abroad from guests from major language departments at the university, the Study Abroad Office, Liberal Arts Career Services, international exchange students, as well as representatives from nonprofit organizations and recruiters looking to send people abroad. Free food served.\u000a\u000aSource\u000ahttp://www.facebook.com/events/106053796225912/
+p78
+sg8
+S'2012-11-13T11:00:00.000000-0600'
+p79
+sg10
+Vhttp://www.facebook.com/events/106053796225912/
+p80
+sg12
+VFlawn Academic Center (FAC), patio
+p81
+sa(dp82
+g2
+S'2012-11-13T22:00:00.000000-0600'
+p83
+sg4
+VDiwali 2012 celebrated on Main Mall
+p84
+sg6
+VThe Hindu Student's Association presents Diwali 2012, a fun-filled night of games and prizes, live entertainment and a fireworks show. Food available at reasonable prices.
+p85
+sg8
+S'2012-11-13T19:00:00.000000-0600'
+p86
+sg10
+Nsg12
+VMain Mall
+p87
+sa(dp88
+g2
+S'2012-11-17T22:00:00.000000-0600'
+p89
+sg4
+VISACO presents annual performing arts show
+p90
+sg6
+VThe Iranian Student Academic and Cultural Organization (ISACO) presents "Farhange Finglisi," a showcase celebrating Persian culture that includes dances, skits, poetry and a fashion show. \u000a\u000aRefreshments and Persian sweets served at intermission. \u000a\u000aHalf of proceeds donated to Children of Persia, a charity helping those affected by the recent earthquake in East Azerbaijan.\u000a\u000aSource\u000ahttps://www.facebook.com/events/167989830012744/?fref=ts
+p91
+sg8
+S'2012-11-17T20:00:00.000000-0600'
+p92
+sg10
+Vhttps://www.facebook.com/events/167989830012744/?fref=ts
+p93
+sg12
+VTexas Union Building (UNB), theater
+p94
+sa(dp95
+g2
+S'2012-11-19T20:00:00.000000-0600'
+p96
+sg4
+VAID presents Affirmative Action in the Indian context
+p97
+sg6
+VThe Association for India's Development (AID) presents a Let's Talk India forum, titled Affirmative Action in the Indian context. A series of short videos and documents will expose the audience to the issue of reservations in India and prompt discussion. Refreshments served.\u000a\u000aSource\u000ahttp://goo.gl/Tz4Uk
+p98
+sg8
+S'2012-11-19T18:30:00.000000-0600'
+p99
+sg10
+Vhttp://goo.gl/Tz4Uk
+p100
+sg12
+VBurdine Hall (BUR) 130
+p101
+sa(dp102
+g2
+S'2013-01-31T16:00:00.000000-0600'
+p103
+sg4
+V"Real Students of SDI" open house announced
+p104
+sg6
+VMeet the students involved in Student Diversity Initiatives (SDI) and tour the Multicultural Engagement Center and the Gender and Sexuality Center. The afternoon features a scavenger hunt and performances by Queer Chorus, Melody Chang and The Manifest Electric. Free food served. Visit https://www.facebook.com/events/496343653743329/.\u000a\u000aSource\u000ahttp://utmec.org
+p105
+sg8
+S'2013-01-31T14:00:00.000000-0600'
+p106
+sg10
+Vhttp://utmec.org
+p107
+sg12
+VStudent Activity Center (SAC) 1.102 and 2.112
+p108
+sa(dp109
+g2
+S'2013-02-20T19:00:00.000000-0600'
+p110
+sg4
+VInternational Gastronomy Society meets
+p111
+sg6
+VLove to cook? Love to eat good food? Attend the second general meeting of the International Gastronomy Society, where the topic is Spanish gastronomy. Contact gastronomyinternational@gmail.com with questions.\u000a\u000aSource\u000ahttp://www.facebook.com/groups/internationalgastronomysociety/
+p112
+sg8
+S'2013-02-20T18:00:00.000000-0600'
+p113
+sg10
+Vhttp://www.facebook.com/groups/internationalgastronomysociety/
+p114
+sg12
+VGearing Hall (GEA) 114
+p115
+sa(dp116
+g2
+S'2013-02-20T21:30:00.000000-0600'
+p117
+sg4
+VIndian Cultural Association holds dance clinic Jhoom
+p118
+sg6
+VLearn how to dance like a Bollywood pro at a clinic teaching two 45-second routines. Free food served to attendees.
+p119
+sg8
+S'2013-02-20T19:00:00.000000-0600'
+p120
+sg10
+Nsg12
+VRecreational Sports Center (RCS) 1.104
+p121
+sa(dp122
+g2
+S'2013-02-21T19:00:00.000000-0600'
+p123
+sg4
+VUT undergrad French Club holds social
+p124
+sg6
+VThe French Club holds its first social. Join us for delicious food and French conversation practice in a relaxed setting.\u000a\u000aSource\u000ahttp://www.facebook.com/groups/420277844714199/
+p125
+sg8
+S'2013-02-21T18:00:00.000000-0600'
+p126
+sg10
+Vhttp://www.facebook.com/groups/420277844714199/
+p127
+sg12
+VRancho Rio Food Trailers, 26th and Rio Grande
+p128
+sa(dp129
+g2
+S'2013-03-01T23:00:00.000000-0600'
+p130
+sg4
+VDesi Culture Night presents showcase
+p131
+sg6
+VDesi Culture Night promotes awareness of South Asian religions and cultures to bring more diversity and knowledge to the university campus. The showcase features music, dance, educational games, fashion, food, magic, art and a bouncy house.\u000a\u000aSource\u000ahttps://www.facebook.com/events/424117651007082/
+p132
+sg8
+S'2013-03-01T18:30:00.000000-0600'
+p133
+sg10
+Vhttps://www.facebook.com/events/424117651007082/
+p134
+sg12
+VWest Mall
+p135
+sa(dp136
+g2
+S'2013-03-02T15:00:00.000000-0600'
+p137
+sg4
+VSocial Justice Symposium announced 
+p138
+sg6
+VNourish International and A.C.T. (Against Cruel Trafficking) host a social justice panel and discussion involving experts from local Austin nonprofits and the School of Social Work. Themes of the symposium are human trafficking, sustainable development and fostering student activism. Food and drinks served.\u000a\u000aSource\u000ahttps://www.facebook.com/events/487863364608783/
+p139
+sg8
+S'2013-03-02T12:00:00.000000-0600'
+p140
+sg10
+Vhttps://www.facebook.com/events/487863364608783/
+p141
+sg12
+VGregory Gym (GRE), Games Room 3.120
+p142
+sa(dp143
+g2
+S'2013-03-04T20:00:00.000000-0600'
+p144
+sg4
+VFood Recovery Network meeting held
+p145
+sg6
+VFood Recovery Network is a national nonprofit that fights food waste and hunger by donating surplus food from campus facilities and nearby restaurants to local agencies fighting hunger and poverty.  Attend our first-ever general meeting to learn more about the process, who we are and how to get involved.\u000a\u000aSource\u000ahttps://www.facebook.com/events/424207894324512/]https://www.facebook.com/events/424207894324512/
+p146
+sg8
+S'2013-03-04T19:00:00.000000-0600'
+p147
+sg10
+Vhttps://www.facebook.com/events/424207894324512/]https://www.facebook.com/events/424207894324512/
+p148
+sg12
+VCollege of Liberal Arts Building (CLA) 0.104
+p149
+sa(dp150
+g2
+S'2013-03-21T14:00:00.000000-0500'
+p151
+sg4
+VLunch with Landmarks celebrates new LeWitt pieces
+p152
+sg6
+VLandmarks celebrates the recent installation of two works by Sol LeWitt at the Bill & Melinda Gates Computer Science Complex & Dell Computer Science Hall. The concrete block structure "Circle with Towers" provides a gathering place for the community outside the Speedway entrance to the complex. "Wall Drawing #520" adds lush color to three walls in the atrium of the complex. Lunch With Landmarks provides a food truck and docent-led tours throughout this event.\u000a\u000aSource\u000ahttp://landmarks.utexas.edu/
+p153
+sg8
+S'2013-03-21T12:00:00.000000-0500'
+p154
+sg10
+Vhttp://landmarks.utexas.edu/
+p155
+sg12
+VBill & Melinda Gates Computer Science Complex & Dell Hall (GDC), Speedway entrance, south of 24th St
+p156
+sa(dp157
+g2
+S'2013-03-22T22:00:00.000000-0500'
+p158
+sg4
+VIndian Cultural Association presents Antakshari
+p159
+sg6
+VAntakshari is a song competition with diverse rounds, giving contestants the chance to win &#36;500 worth of prizes. Participants and audience members are welcome. Free food provided.\u000a\u000aSource\u000ahttps://www.facebook.com/events/510696348992505/
+p160
+sg8
+S'2013-03-22T19:00:00.000000-0500'
+p161
+sg10
+Vhttps://www.facebook.com/events/510696348992505/
+p162
+sg12
+VRecreational Sports Center (RSC), Games Room 2.104
+p163
+sa(dp164
+g2
+S'2013-03-26T20:30:00.000000-0500'
+p165
+sg4
+VOxfam UT screens "Food Inc."
+p166
+sg6
+VAttend a screening of "Food Inc." followed by a short discussion as part of Oxfam's Grow Campaign. Friends welcome. Free pizza provided, with a gluten-free option offered.\u000a\u000aSource\u000ahttps://www.facebook.com/events/509632325739452/
+p167
+sg8
+S'2013-03-26T19:00:00.000000-0500'
+p168
+sg10
+Vhttps://www.facebook.com/events/509632325739452/
+p169
+sg12
+VGarrison Hall (GAR) 2.124
+p170
+sa(dp171
+g2
+S'2013-04-05T16:00:00.000000-0500'
+p172
+sg4
+VAnnual Yoruba Day Celebration announced
+p173
+sg6
+VJoin the Black Studies Department and the John L. Warfield Center for the eighth annual Yoruba Day Celebration and festivities. Showcases include a special keynote speaker, music, food, performances and much more.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers+/caaas/
+p174
+sg8
+S'2013-04-05T12:00:00.000000-0500'
+p175
+sg10
+Vhttp://www.utexas.edu/cola/centers+/caaas/
+p176
+sg12
+VStudent Activity Center (SAC), Black Box Theater 2.304
+p177
+sa(dp178
+g2
+S'2013-04-05T19:30:00.000000-0500'
+p179
+sg4
+VUT Sciences Toastmasters holds open house
+p180
+sg6
+VUT Sciences Toastmasters, the university branch of an international public speaking organization, hosts an open house for guests from all departments and majors. Enjoy an evening of networking and skill-building including a talk by two experienced speakers. A practice session follows. Free food and drinks served.
+p181
+sg8
+S'2013-04-05T17:45:00.000000-0500'
+p182
+sg10
+Nsg12
+VStudent Activity Center (SAC) 1.106
+p183
+sa(dp184
+g2
+S'2013-04-05T21:00:00.000000-0500'
+p185
+sg4
+VKorean Culture Night competition announced
+p186
+sg6
+VKorean Culture Night is a competition-based show with cash prizes in which the audience's vote determines the winners. Bring your friends for great performances and vote for your favorite act. Free Korean food served.\u000a\u000aSource\u000ahttp://www.facebook.com/events/413804695382526/
+p187
+sg8
+S'2013-04-05T19:00:00.000000-0500'
+p188
+sg10
+Vhttp://www.facebook.com/events/413804695382526/
+p189
+sg12
+VTexas Union Building (UNB), Texas Union Theatre 2.228
+p190
+sa(dp191
+g2
+S'2013-04-09T20:00:00.000000-0500'
+p192
+sg4
+VJesus in the Quran is topic of talk
+p193
+sg6
+VThe Islamic Dialogue Student Association presents a talk titled "Jesus in the Quran," by Okan Dogan. What does the Quran say about the life and miracles of Jesus? What do Muslims believe about him and his mother, Mary? Refreshments served.
+p194
+sg8
+S'2013-04-09T18:00:00.000000-0500'
+p195
+sg10
+Nsg12
+VCockrell Hall (ECJ) 1.204
+p196
+sa(dp197
+g2
+S'2013-04-18T21:00:00.000000-0500'
+p198
+sg4
+VMeet and greet local jewelry designers at Museum Shop
+p199
+sg6
+VJoin the Blanton Museum Shop for a meet and greet with local jewelers Adaptive Reuse, M Squared Jewelry by Mae Mae Stiles, Son of Sailor and Tasty Jewelry. Shop for unique, handcrafted jewelry as you chat with the designers. Refreshments served. This special event is part of the Blanton Museum Shop's Handmade Jewelry Trunk Show.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/meet_and_greet_with_local_jewelry_designers_in_the_museum_shop
+p200
+sg8
+S'2013-04-18T18:00:00.000000-0500'
+p201
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/meet_and_greet_with_local_jewelry_designers_in_the_museum_shop
+p202
+sg12
+VBlanton Museum Shop
+p203
+sa(dp204
+g2
+S'2013-04-23T17:30:00.000000-0500'
+p205
+sg4
+VMEC Cinema presents "Soul Food Junkies"
+p206
+sg6
+VCo-founders of Food for Black Thought Naya Jones and Kevin Thomas host this installment of MEC Cinema and facilitate a discussion following the screening of "Soul Food Junkies," a documentary that looks at the effects of "soul food" on African Americans and others.\u000a\u000a\u000a\u000aInspired by his own family's complex relationship with "soul food" - fried chicken, ribs, macaroni and cheese, peach cobbler and the whole panoply of down-home foods made with grease, sugar and love - acclaimed filmmaker Byron Hurt asks whether this diet is nurturing or destroying the African American community. With humor and heart, Hurt questions the effects of "soul food" on the health of not only African Americans, but all who guiltily consume this most comforting of American comfort foods.\u000a\u000aSource\u000ahttps://www.facebook.com/events/224915407640151/
+p207
+sg8
+S'2013-04-23T16:00:00.000000-0500'
+p208
+sg10
+Vhttps://www.facebook.com/events/224915407640151/
+p209
+sg12
+VStudent Activity Center (SAC), Multicultural Engagement Center 1.102
+p210
+sa(dp211
+g2
+S'2012-10-02T18:30:00.000000-0500'
+p212
+sg4
+VDDCE pre-college alumni reunion announced
+p213
+sg6
+VUT students who were once part of a DDCE pre-college program such as UT Outreach, ChemBridge or SPURS are invited to reconnect with other alumni from those programs and, together, learn of resources on campus to ensure your success. Free food served. Email thais@austin.utexas.edu if you are interested in attending.
+p214
+sg8
+S'2012-10-02T17:00:00.000000-0500'
+p215
+sg10
+Nsg12
+VTexas Union Building (UNB), Asian Culture Room 4.224
+p216
+sa(dp217
+g2
+S'2012-10-04T21:00:00.000000-0500'
+p218
+sg4
+VJester Block Party is National Night Out event
+p219
+sg6
+VJester Block Party is held in collaboration with National Night Out and focuses on safety and security. Enjoy inflatable games, music, free food, t-shirt giveaways and photos Hook 'Em the mascot.\u000a\u000aSource\u000ahttp://www.facebook.com/events/474118612609711/
+p220
+sg8
+S'2012-10-04T18:00:00.000000-0500'
+p221
+sg10
+Vhttp://www.facebook.com/events/474118612609711/
+p222
+sg12
+VJester Spanish Oaks Terrace (JES)
+p223
+sa(dp224
+g2
+S'2012-10-05T22:00:00.000000-0500'
+p225
+sg4
+VTaiwanese American students host 10th annual Night Market
+p226
+sg6
+VTASA, the Taiwanese American Student Association, invites you to its 10th annual Night Market, showcasing Taiwanese culture.  Free food, prizes, games, t-shirts and performances make this an unforgettable night.\u000a\u000aSource\u000ahttp://www.utexastasa.com/nightmarket.shtml
+p227
+sg8
+S'2012-10-05T19:00:00.000000-0500'
+p228
+sg10
+Vhttp://www.utexastasa.com/nightmarket.shtml
+p229
+sg12
+VGregory Gym Plaza (GRE)
+p230
+sa(dp231
+g2
+S'2012-10-06T22:45:00.000000-0500'
+p232
+sg4
+VDaily Texan hosts kickoff countdown tailgate party
+p233
+sg6
+VWatch the game with Texas Student Media and enjoy free food and drinks provided by our sponsors. Event starts four hours prior to kickoff and continues through the UT game.
+p234
+sg8
+S'2012-10-06T14:00:00.000000-0500'
+p235
+sg10
+Nsg12
+VCorner of MLK and Brazos
+p236
+sa(dp237
+g2
+S'2012-10-20T17:00:00.000000-0500'
+p238
+sg4
+VCaribbean Fun Day announced
+p239
+sg6
+VJoin the Caribbean Students Association for a fun day of Caribbean sports, featuring  cricket, soccer and great food. Attendees are welcome to bring a dish of their own to share.\u000a\u000aSource\u000ahttp://www.csautexas.org
+p240
+sg8
+S'2012-10-20T13:00:00.000000-0500'
+p241
+sg10
+Vhttp://www.csautexas.org
+p242
+sg12
+VAdams Hemphill Park, 201 W 30th Street, Austin, TX 78705
+p243
+sa(dp244
+g2
+S'2012-10-22T19:00:00.000000-0500'
+p245
+sg4
+VSlow Food UT meets
+p246
+sg6
+VSlow Food UT meets every other Monday to talk about the cultural relevance of food today. Meetings feature guest speakers and the opportunity to work with other food groups on campus.
+p247
+sg8
+S'2012-10-22T18:00:00.000000-0500'
+p248
+sg10
+Nsg12
+VBurdine Hall (BUR) 116
+p249
+sa(dp250
+g2
+S'2012-10-22T21:00:00.000000-0500'
+p251
+sg4
+VHook the Cure holds general meeting
+p252
+sg6
+VMembers of Hook the Cure come together under one common goal: to raise diabetes awareness. Refreshments served. All majors welcome.\u000a\u000aSource\u000ahttp://texashookthecure.weebly.com/
+p253
+sg8
+S'2012-10-22T20:00:00.000000-0500'
+p254
+sg10
+Vhttp://texashookthecure.weebly.com/
+p255
+sg12
+VBenedict Hall (BEN) 1.124
+p256
+sa(dp257
+g2
+S'2012-10-24T15:00:00.000000-0500'
+p258
+sg4
+VFood Day celebrates affordable, local & sustainable food
+p259
+sg6
+VFood Day is a nationwide celebration and part of the movement to promote healthy local and sustainable foods. Learn what really goes into our bodies and where it comes from, and learn how you can find access to healthy, affordable food in Austin and on campus. Event features free food samples, prizes, a massive food tracking map and much more.\u000a\u000a\u000a\u000aCo-sponsored by The Food Studies Project, Nourish International, Art Above Ground and the Campus Environmental Center.
+p260
+sg8
+S'2012-10-24T11:00:00.000000-0500'
+p261
+sg10
+Nsg12
+VStudent Activity Center (SAC), lawn
+p262
+sa(dp263
+g2
+S'2012-10-24T21:30:00.000000-0500'
+p264
+sg4
+VDesserts for Leaders event announced
+p265
+sg6
+VAt Desserts for Leaders, student leaders across campus come together to discuss upcoming events and current issues throughout campus. Desserts served. RSVP to sedinternal@gmail.com to reserve your seat.\u000a\u000aSource\u000ahttps://www.facebook.com/events/120584361428112/?fref=ts
+p266
+sg8
+S'2012-10-24T20:00:00.000000-0500'
+p267
+sg10
+Vhttps://www.facebook.com/events/120584361428112/?fref=ts
+p268
+sg12
+VStudent Activity Center (SAC), ballroom
+p269
+sa(dp270
+g2
+S'2012-10-25T19:00:00.000000-0500'
+p271
+sg4
+VCyber Scare and Gigglepants talk Internet safety
+p272
+sg6
+VLearn how to browse the Internet safely while trying not to fall off your seat from laughing. UT Student Organization Safety Board\u000a\u000apresents Cyber Scare alongside Gigglepants, who perform their improvisation comedy act on the theme of Internet safety. Free food and education.
+p273
+sg8
+S'2012-10-25T18:00:00.000000-0500'
+p274
+sg10
+Nsg12
+VTexas Union Building (UNB), ballroom
+p275
+sa(dp276
+g2
+S'2012-10-31T20:00:00.000000-0500'
+p277
+sg4
+VFilm screening and talk spotlight human trafficking
+p278
+sg6
+VWatch clips from the hit blockbuster "Taken," starring Liam Neeson, and learn about the difference between how the media portrays human trafficking and how it actually exists in our world today. Popcorn served. This is part of a series of events hosted by Kappa Phi Lambda Sorority, Inc., for their Philanthropy Week, "Fight the Fright."
+p279
+sg8
+S'2012-10-31T18:30:00.000000-0500'
+p280
+sg10
+Nsg12
+VGraduate School of Business (GSB) 2.122
+p281
+sa(dp282
+g2
+S'2012-11-01T19:00:00.000000-0500'
+p283
+sg4
+VStudent Health Advisory Committee holds annual Town Hall
+p284
+sg6
+VThe Student Health Advisory Committee cordially invites you to our annual Town Hall, an open discussion with University Health Services administrators and health leaders. Free food and prize drawings included.\u000a\u000a\u000a\u000aDiscussion topics include: (1) How to use insurance at UHS and how the new Affordable Care Act affects you, (2) Does better health mean better grades? (3) How you can become a health advocate and leader on campus?\u000a\u000aSource\u000ahttp://www.facebook.com/events/441024032600422/
+p285
+sg8
+S'2012-11-01T17:30:00.000000-0500'
+p286
+sg10
+Vhttp://www.facebook.com/events/441024032600422/
+p287
+sg12
+VSan Jacinto Residence Hall (SJH), Multipurpose Room
+p288
+sa(dp289
+g2
+S'2012-11-03T13:00:00.000000-0500'
+p290
+sg4
+VUT Micro Farm holds first workday
+p291
+sg6
+VHelp start UT's first student-run sustainable farm by volunteering at the UT Micro Farm's very first workday. Tools and supplies provided. All skill levels welcome. Bring construction tools if you have them. Free breakfast served. Bring water and wear closed-toe shoes. Visit us on Facebook: https://www.facebook.com/UTMicroFarm.\u000a\u000aSource\u000ahttp://utmicrofarm.tumblr.com/
+p292
+sg8
+S'2012-11-03T09:30:00.000000-0500'
+p293
+sg10
+Vhttp://utmicrofarm.tumblr.com/
+p294
+sg12
+V2204 Leona Street
+p295
+sa(dp296
+g2
+S'2012-11-03T22:00:00.000000-0500'
+p297
+sg4
+VHold 'Em for Hunger benefits Nourish International
+p298
+sg6
+VNourish International presents a casino night featuring live performances, great food, and a chance to win a pair of Lupe Fiasco tickets. All proceeds benefit Nourish International, a nonprofit organization that sends students abroad over the summer to work on projects in impoverished communities. \u000a\u000a\u000a\u000aView our project video from summer 2012 here.\u000a\u000aSource\u000ahttps://www.facebook.com/#!/events/221455521318220/?fref=ts
+p299
+sg8
+S'2012-11-03T19:00:00.000000-0500'
+p300
+sg10
+Vhttps://www.facebook.com/#!/events/221455521318220/?fref=ts
+p301
+sg12
+VStudent Activity Center (SAC), ballroom
+p302
+sa(dp303
+g2
+S'2012-11-07T14:00:00.000000-0600'
+p304
+sg4
+VIndian Cultural Association presents Jhalak pre-show
+p305
+sg6
+VJhalak is the largest national Bollywood dance competition in Texas. Join members of the UT Indian Cultural Association as they kick off their silent rally for Jhalak, where you can buy a ticket and enjoy authentic Indian food.\u000a\u000aSource\u000ahttps://www.facebook.com/events/510260865651630/
+p306
+sg8
+S'2012-11-07T10:00:00.000000-0600'
+p307
+sg10
+Vhttps://www.facebook.com/events/510260865651630/
+p308
+sg12
+VWest Mall
+p309
+sa(dp310
+g2
+S'2012-11-10T12:00:00.000000-0600'
+p311
+sg4
+VUT Micro Farm holds workday
+p312
+sg6
+VHelp start UT's first student-run sustainable farm by volunteering at the UT Micro Farm's second workday. Tools and supplies provided but additional construction tools welcome. All skill levels. Free breakfast served. Bring water and wear closed-toe shoes. Visit us on Facebook: https://www.facebook.com/UTMicroFarm.\u000a\u000aSource\u000ahttp://utmicrofarm.tumblr.com/
+p313
+sg8
+S'2012-11-10T09:30:00.000000-0600'
+p314
+sg10
+Vhttp://utmicrofarm.tumblr.com/
+p315
+sg12
+V2204 Leona Street
+p316
+sa(dp317
+g2
+S'2012-11-10T23:00:00.000000-0600'
+p318
+sg4
+VEid banquet sponsored by Pakistani Students Association
+p319
+sg6
+VThe Texas Pakistani Students Association hosts an Eid banquet to celebrate the cultural significance of Eid in the lives of Muslims worldwide. Alumni, professionals and families from all over Austin are welcome to join the UT student body for great food and a wonderful evening.\u000a\u000aSource\u000ahttps://www.facebook.com/events/294381807343653
+p320
+sg8
+S'2012-11-10T19:00:00.000000-0600'
+p321
+sg10
+Vhttps://www.facebook.com/events/294381807343653
+p322
+sg12
+VStudent Activity Center (SAC), ballroom
+p323
+sa(dp324
+g2
+S'2012-11-13T12:45:00.000000-0600'
+p325
+sg4
+VFood Lab hosts official taste testing 
+p326
+sg6
+VCome and taste the products of three enterprising food companies all for the wonderful price of nothing. Sign up at the link below and come be a food critic.\u000a\u000aSource\u000ahttps://foodlab.ticketbud.com/tastetest
+p327
+sg8
+S'2012-11-13T12:00:00.000000-0600'
+p328
+sg10
+Vhttps://foodlab.ticketbud.com/tastetest
+p329
+sg12
+VSutton Hall (SUT) 3.112
+p330
+sa(dp331
+g2
+S'2012-11-16T22:00:00.000000-0600'
+p332
+sg4
+VJapanese Association hosts Fall Festival
+p333
+sg6
+VFall Festival is an annual event hosted by the Japanese Association, featuring performances, food, games and more.\u000a\u000aSource\u000ahttp://utexasja.org/
+p334
+sg8
+S'2012-11-16T19:00:00.000000-0600'
+p335
+sg10
+Vhttp://utexasja.org/
+p336
+sg12
+VGregory Gym (GRE)
+p337
+sa(dp338
+g2
+S'2012-11-17T12:00:00.000000-0600'
+p339
+sg4
+VUT Micro Farm holds workday
+p340
+sg6
+VHelp start UT's first student-run sustainable farm by volunteering at the UT Micro Farm's third workday. All skill levels. Tools and supplies provided but additional construction tools welcome. Free breakfast served. Bring water and wear closed-toe shoes. Visit us on Facebook: https://www.facebook.com/UTMicroFarm.\u000a\u000aSource\u000ahttp://utmicrofarm.tumblr.com/
+p341
+sg8
+S'2012-11-17T09:30:00.000000-0600'
+p342
+sg10
+Vhttp://utmicrofarm.tumblr.com/
+p343
+sg12
+V2204 Leona Street
+p344
+sa(dp345
+g2
+S'2012-11-19T21:00:00.000000-0600'
+p346
+sg4
+VHook the Cure holds general meeting
+p347
+sg6
+VMembers of Hook the Cure come together with one common goal: to raise diabetes awareness. Refreshments served. All majors welcome.\u000a\u000aSource\u000ahttp://texashookthecure.weebly.com/
+p348
+sg8
+S'2012-11-19T20:00:00.000000-0600'
+p349
+sg10
+Vhttp://texashookthecure.weebly.com/
+p350
+sg12
+VBenedict Hall (BEN) 1.124
+p351
+sa(dp352
+g2
+S'2012-11-27T21:00:00.000000-0600'
+p353
+sg4
+VStudy hours hosted by sisters of Zeta Sigma Chi
+p354
+sg6
+VCome study with the sisters of Zeta Sigma Chi Multicultural Sorority. Food and drinks provided.\u000a\u000aSource\u000ahttp://www.utzetasigmachi.com/ZSC/Newsletter.html
+p355
+sg8
+S'2012-11-27T19:00:00.000000-0600'
+p356
+sg10
+Vhttp://www.utzetasigmachi.com/ZSC/Newsletter.html
+p357
+sg12
+VParlin Hall (PAR) 305
+p358
+sa(dp359
+g2
+S'2012-11-27T20:30:00.000000-0600'
+p360
+sg4
+VFood Studies hosts final Educated Eater event of semester
+p361
+sg6
+VAt this Educated Eater event, learn more about the Food Studies Project and get involved with mapping the UT food scene. Dessert provided.\u000a\u000aSource\u000ahttps://www.facebook.com/events/521821554496853/
+p362
+sg8
+S'2012-11-27T19:30:00.000000-0600'
+p363
+sg10
+Vhttps://www.facebook.com/events/521821554496853/
+p364
+sg12
+VStudent Activity Center (SAC) 3.106
+p365
+sa(dp366
+g2
+S'2012-11-28T20:00:00.000000-0600'
+p367
+sg4
+VInterracial couples sought for discussion 
+p368
+sg6
+VKinsolving resident assistants are looking for interracial couples willing to discuss various aspects of their interracial relationship in a forum sponsored by the Division of Food and Housing Diversity program. Free food reception provided. Contact Chelsea Bryant (cmbryant@utexas.edu) or Dakota Batch (dylan.batch@utexas.edu).
+p369
+sg8
+S'2012-11-28T18:00:00.000000-0600'
+p370
+sg10
+Nsg12
+VKinsolving Residence Hall (KIN)
+p371
+sa(dp372
+g2
+S'2012-12-03T21:00:00.000000-0600'
+p373
+sg4
+VHook the Cure holds general meeting
+p374
+sg6
+VMembers of Hook the Cure come together under one common goal: to raise diabetes awareness. Refreshments served. All majors welcome.\u000a\u000aSource\u000ahttp://texashookthecure.weebly.com/
+p375
+sg8
+S'2012-12-03T20:00:00.000000-0600'
+p376
+sg10
+Vhttp://texashookthecure.weebly.com/
+p377
+sg12
+VBenedict Hall (BEN) 1.124
+p378
+sa(dp379
+g2
+S'2012-12-04T21:00:00.000000-0600'
+p380
+sg4
+VStudy hours hosted by sisters of Zeta Sigma Chi
+p381
+sg6
+VCome study with the sisters of Zeta Sigma Chi Multicultural Sorority. Food and drinks provided.\u000a\u000aSource\u000ahttp://www.utzetasigmachi.com/ZSC/Newsletter.html
+p382
+sg8
+S'2012-12-04T19:00:00.000000-0600'
+p383
+sg10
+Vhttp://www.utzetasigmachi.com/ZSC/Newsletter.html
+p384
+sg12
+VParlin Hall (PAR) 305
+p385
+sa(dp386
+g2
+S'2012-12-05T20:30:00.000000-0600'
+p387
+sg4
+VIslamophobia is topic of panel discussion
+p388
+sg6
+VIslamophobia is the topic of a panel discussion with Dr. Snehal Shingavi, assistant professor of English and core faculty in Asian American Studies; Sheikh Umer, Nueces Mosque; and Lesley Varghese, executive director, Asian American Resource Center. Food served. RSVP on Facebook at https://www.facebook.com/events/539160002779084/.\u000a\u000a\u000a\u000aAdditional sponsors are Network of Asian American Organizations, Indian American Coalition of Texas, Asian Desi Pacific Islander American Collective, Nueces Mosque - Student Chapter, Muslims Without Borders - Texas, Sikh Students Association, and Students for Equity and Diversity.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers/aas/events/25123
+p389
+sg8
+S'2012-12-05T19:00:00.000000-0600'
+p390
+sg10
+Vhttp://www.utexas.edu/cola/centers/aas/events/25123
+p391
+sg12
+VNueces Mosque, 1906 Nueces Street
+p392
+sa(dp393
+g2
+S'2012-12-06T16:00:00.000000-0600'
+p394
+sg4
+VUT Libraries hold Food-for-Fines Amnesty Days
+p395
+sg6
+VBring in nonperishable food items to some campus libraries and the library will waive &#36;5 off of your outstanding library fines for each item you contribute. Some charges, like bills for lost items, are not eligible. Check with billing library for questions about a particular charge. For more information and a full list of libraries, visit the link below.\u000a\u000aSource\u000ahttp://www.lib.utexas.edu/calendar/ut-libraries-food-fines-amnesty-days
+p396
+sg8
+S'2012-12-06T09:00:00.000000-0600'
+p397
+sg10
+Vhttp://www.lib.utexas.edu/calendar/ut-libraries-food-fines-amnesty-days
+p398
+sg12
+VPerry-Castaneda Library (PCL) 2.122
+p399
+sa(dp400
+g2
+S'2012-12-08T12:30:00.000000-0600'
+p401
+sg4
+VUT Micro Farm holds workday
+p402
+sg6
+VHelp start UT's first student-run sustainable farm by volunteering at the UT Micro Farm. All skill levels needed. Tools and supplies provided but additional construction tools welcome. It's a potluck, so bring food to share. Bring water and wear closed-toe shoes. Visit us on Facebook: https://www.facebook.com/UTMicroFarm.\u000a\u000aSource\u000ahttp://utmicrofarm.tumblr.com/
+p403
+sg8
+S'2012-12-08T09:30:00.000000-0600'
+p404
+sg10
+Vhttp://utmicrofarm.tumblr.com/
+p405
+sg12
+V2204 Leona Street
+p406
+sa(dp407
+g2
+S'2012-12-08T16:00:00.000000-0600'
+p408
+sg4
+VChristmas at Winedale Folklife Event announced
+p409
+sg6
+VThe Winedale Folklife Christmas welcomes visitors of all ages to tour decorated historic homes, a stagecoach ride, and enjoy demonstrations of blacksmithing, quilting, weaving, spinning, lace making, pioneer encampment and more. Additional children's activities offered. Food and drinks available for sale. Contact 979-278-3530 or winedale@austin.utexas.edu.\u000a\u000aSource\u000ahttp://www.cah.utexas.edu/news/press_release.php?press=press_winedale_christmas_2012
+p410
+sg8
+S'2012-12-08T12:00:00.000000-0600'
+p411
+sg10
+Vhttp://www.cah.utexas.edu/news/press_release.php?press=press_winedale_christmas_2012
+p412
+sg12
+VWinedale Theatre Barn, Round Top, TX
+p413
+sa(dp414
+g2
+S'2012-12-08T21:00:00.000000-0600'
+p415
+sg4
+VWildflower Center presents Luminations
+p416
+sg6
+VThe Wildflower Center dresses up its gardens for the holidays with thousands of luminarias and lights. Attend this magical event featuring local performers, hands-on crafts indoors, a puppet show, Frosty the Snowman and much more. Also enjoy food and drinks from the cafe and specials and book signings in the gift shop. All canned goods donated to the Capital Area Food Bank.\u000a\u000aSource\u000ahttp://www.wildflower.org/luminations/
+p417
+sg8
+S'2012-12-08T18:00:00.000000-0600'
+p418
+sg10
+Vhttp://www.wildflower.org/luminations/
+p419
+sg12
+VLady Bird Johnson Wildflower Center, 4801 La Crosse Avenue
+p420
+sa(dp421
+g2
+S'2012-12-10T15:00:00.000000-0600'
+p422
+sg4
+VYoga and Yogurt event reduces stress before tests
+p423
+sg6
+VFeeling a little worked up? Come to Yoga and Yogurt and reap the benefits. Bring a towel or exercise mat, a water bottle and wear comfortable clothes. Friends welcome. Email carmenfinch@utexas.edu for more information. Free food served.
+p424
+sg8
+S'2012-12-10T13:00:00.000000-0600'
+p425
+sg10
+Nsg12
+VStudent Activity Center (SAC) 2.310
+p426
+sa(dp427
+g2
+S'2012-12-10T22:00:00.000000-0600'
+p428
+sg4
+VFeed Your Mind during finals
+p429
+sg6
+VFeed Your Mind is the largest food giveaway on campus. Get a good meal during finals and try something new.\u000a\u000aSource\u000ahttp://www.facebook.com/events/121969804629294/?ref=ts&fref=ts
+p430
+sg8
+S'2012-12-10T19:30:00.000000-0600'
+p431
+sg10
+Vhttp://www.facebook.com/events/121969804629294/?ref=ts&fref=ts
+p432
+sg12
+VMcCombs School of Business (CBA), atrium
+p433
+sa(dp434
+g2
+S'2012-12-14T18:30:00.000000-0600'
+p435
+sg4
+VAAAFSA holiday party announced
+p436
+sg6
+VThe Asian/Asian American Faculty & Staff Association holds its annual holiday party. Food and drinks provided, family members welcome. RSVP to \u000a\u000asona.shah@austin.utexas.edu. Donation items for SAHELI clients accepted: gift cards for Target, HEB, Walmart, \u000a\u000aKohls/Penny's; bus passes (weekly/monthly); new household items - dish sets, kitchen utensils, blankets, pillow cases, small rice cookers.
+p437
+sg8
+S'2012-12-14T16:30:00.000000-0600'
+p438
+sg10
+Nsg12
+VGregory Gym (GRE), Games Room 3.120
+p439
+sa(dp440
+g2
+S'2012-12-15T12:30:00.000000-0600'
+p441
+sg4
+VUT Micro Farm holds last workday of the semester
+p442
+sg6
+VHelp start UT's first student-run sustainable farm by volunteering at the UT Micro Farm. All skill levels needed. Tools and supplies provided but additional construction tools welcome. It's a potluck, so bring food to share. Bring water and wear closed-toe shoes. Visit us on Facebook: https://www.facebook.com/UTMicroFarm.\u000a\u000aSource\u000ahttp://utmicrofarm.tumblr.com/
+p443
+sg8
+S'2012-12-15T09:30:00.000000-0600'
+p444
+sg10
+Vhttp://utmicrofarm.tumblr.com/
+p445
+sg12
+V2204 Leona Street
+p446
+sa(dp447
+g2
+S'2013-01-28T21:00:00.000000-0600'
+p448
+sg4
+VGet involved in the UT Micro Farm project
+p449
+sg6
+VThe UT Micro Farm is our campus' first student-run, sustainable farm, where food is grown for the local community. Volunteers are needed, whatever your skill set or interests. Visit the website below to learn how to get involved.\u000a\u000aSource\u000ahttp://utmicrofarm.wordpress.com/
+p450
+sg8
+S'2013-01-28T08:00:00.000000-0600'
+p451
+sg10
+Vhttp://utmicrofarm.wordpress.com/
+p452
+sg12
+V2204 Leona Street
+p453
+sa(dp454
+g2
+S'2013-01-28T20:00:00.000000-0600'
+p455
+sg4
+VCaribbean Students Association holds general meeting
+p456
+sg6
+VThe Caribbean Students Association holds general meetings every other Monday. Join us in celebrating all aspects of Caribbean culture. Meetings feature free Caribbean food, and a chance to meet other Caribbean students and become involved in our vibrant organization.\u000a\u000aSource\u000ahttp://www.csautexas.org
+p457
+sg8
+S'2013-01-28T19:00:00.000000-0600'
+p458
+sg10
+Vhttp://www.csautexas.org
+p459
+sg12
+VStudent Activity Center (SAC) 3.112
+p460
+sa(dp461
+g2
+S'2013-01-29T20:00:00.000000-0600'
+p462
+sg4
+VOperation Smile meets
+p463
+sg6
+VAttend the first Operation Smile meeting of the semester. Operation Smile is a nonprofit organization that transforms lives across the globe by funding surgery for children and young adults who are born with facial deformities (specifically cleft lip or cleft palate). New members welcome. Food served.
+p464
+sg8
+S'2013-01-29T19:00:00.000000-0600'
+p465
+sg10
+Nsg12
+VParlin Hall (PAR) 208
+p466
+sa(dp467
+g2
+S'2013-01-29T21:00:00.000000-0600'
+p468
+sg4
+VHook the Cure holds general meeting
+p469
+sg6
+VMembers of Hook the Cure come together for one common goal: to raise diabetes awareness. Refreshments served. All majors welcome.\u000a\u000aSource\u000ahttp://texashookthecure.weebly.com/
+p470
+sg8
+S'2013-01-29T20:00:00.000000-0600'
+p471
+sg10
+Vhttp://texashookthecure.weebly.com/
+p472
+sg12
+VBenedict Hall (BEN) 1.124
+p473
+sa(dp474
+g2
+S'2013-01-30T19:30:00.000000-0600'
+p475
+sg4
+VCampus Environmental Center meetings announced
+p476
+sg6
+VCampus Environmental Center meetings are back for the spring semester. Join us every Wednesday for food and news of exciting projects that can help change the face of our campus.\u000a\u000aSource\u000ahttp://UTenvironment.org
+p477
+sg8
+S'2013-01-30T18:00:00.000000-0600'
+p478
+sg10
+Vhttp://UTenvironment.org
+p479
+sg12
+VWelch Hall (WEL) 2.312
+p480
+sa(dp481
+g2
+S'2013-01-30T20:00:00.000000-0600'
+p482
+sg4
+VFood Studies Project presents Educated Eater
+p483
+sg6
+VWhat is food? What is the Food Studies Project? Attend this information session to find out. Free food served.
+p484
+sg8
+S'2013-01-30T19:00:00.000000-0600'
+p485
+sg10
+Nsg12
+VCollege of Liberal Arts Building (CLA) 0.104
+p486
+sa(dp487
+g2
+S'2013-02-01T17:00:00.000000-0600'
+p488
+sg4
+VFood, the City, and Innovation roundtable conference held
+p489
+sg6
+VThe Food Lab at UT presents the Food, the City, and Innovation roundtable conference, a two-day event designed to expand our understanding of the food system, help us think about the relationship of food to global urbanization and explore the potential for entrepreneurship and innovation to improve our food system in the future.\u000a\u000aSource\u000ahttp://foodincubator.wordpress.com/conference/
+p490
+sg8
+S'2013-02-01T09:00:00.000000-0600'
+p491
+sg10
+Vhttp://foodincubator.wordpress.com/conference/
+p492
+sg12
+VBlanton Museum of Art, Edgar A. Smith Building (EAS)
+p493
+sa(dp494
+g2
+S'2013-02-01T21:00:00.000000-0600'
+p495
+sg4
+VBaal Dan Charities holds Date Auction
+p496
+sg6
+VSupport Baal Dan Charities at the second annual Baal Dan Date Auction. Contestants showcase their talents and personalities through a series of interviews and performances. Prizes are awarded to the top bidders. Tickets available through Baal Dan members and at West Mall and Jester. Doors open at 6:30 p.m.\u000a\u000a\u000a\u000aBaal Dan Charities helps children in need in India by purchasing necessary items for them (food, clothing, etc).\u000a\u000aSource\u000ahttps://www.facebook.com/events/476069509096071/?fref=ts
+p497
+sg8
+S'2013-02-01T19:00:00.000000-0600'
+p498
+sg10
+Vhttps://www.facebook.com/events/476069509096071/?fref=ts
+p499
+sg12
+VStudent Activity Center (SAC), auditorium
+p500
+sa(dp501
+g2
+S'2013-02-06T21:00:00.000000-0600'
+p502
+sg4
+V2013 Lunar New Year Festival celebrated
+p503
+sg6
+VJoin the Asian-American community at UT in celebrating the Year of the Snake. Live entertainment, free games, food and prizes make this an unforgettable evening, so take a study break to experience and explore Asian culture. Attendees encouraged to dress in traditional Asian clothing to bring in the New Year.\u000a\u000aSource\u000ahttps://www.facebook.com/events/554458814583040/?fref=ts
+p504
+sg8
+S'2013-02-06T18:00:00.000000-0600'
+p505
+sg10
+Vhttps://www.facebook.com/events/554458814583040/?fref=ts
+p506
+sg12
+VStudent Activity Center (SAC), ballroom 2.410
+p507
+sa(dp508
+g2
+S'2013-02-06T19:00:00.000000-0600'
+p509
+sg4
+VInternational Gastronomy Society meets
+p510
+sg6
+VLove to cook? Love to eat good food? Attend the first meeting of the International Gastronomy Society. Contact gastronomyinternational@gmail.com with questions.\u000a\u000aSource\u000ahttp://www.facebook.com/events/417813544969299/?context=create
+p511
+sg8
+S'2013-02-06T18:00:00.000000-0600'
+p512
+sg10
+Vhttp://www.facebook.com/events/417813544969299/?context=create
+p513
+sg12
+VGearing Hall (GEA) 114
+p514
+sa(dp515
+g2
+S'2013-02-06T20:00:00.000000-0600'
+p516
+sg4
+VMuslims Without Borders holds body meeting
+p517
+sg6
+VMuslims without Borders Texas holds its first general body meeting of the spring 2013 semester. Meet members and hear about upcoming events. Free food served. You are invited to like our Facebook page, where we will be making announcements about our meetings and events in the future: http://www.facebook.com/pages/Muslims-Without-Borders-UT-Austin/327954723960431.\u000a\u000aSource\u000ahttps://www.facebook.com/events/183433855114308/
+p518
+sg8
+S'2013-02-06T18:00:00.000000-0600'
+p519
+sg10
+Vhttps://www.facebook.com/events/183433855114308/
+p520
+sg12
+VMezes Hall (MEZ) 1.120
+p521
+sa(dp522
+g2
+S'2013-02-08T14:00:00.000000-0600'
+p523
+sg4
+VSecond Gloria Anzaldúa Luncheon honors Kim Katrin Crosby 
+p524
+sg6
+VQPOCA presents the second annual Gloria Anzaldúa Luncheon: Honoring Feminists of Color. Join us to welcome our guest of honor, Kim Katrin Crosby. Lunch will be served. RSVP to: qpocatexas@gmail.com. Learn more about Kim Katrin Crosby here.
+p525
+sg8
+S'2013-02-08T12:00:00.000000-0600'
+p526
+sg10
+Nsg12
+VStudent Activity Center (SAC), ballroom
+p527
+sa(dp528
+g2
+S'2013-02-09T13:00:00.000000-0600'
+p529
+sg4
+VUT Micro Farm workday announced
+p530
+sg6
+VParticipate in a UT Micro Farm workday for a variety of tasks for all ages and skill levels. We are UT's first student-run sustainable farm. Tools and supplies provided. Food available but potluck encouraged. Bring work gloves and construction tools if available, as well as water. Closed toe shoes required. Contact microfarm@utenvironment.org with questions.\u000a\u000aSource\u000ahttp://utmicrofarm.wordpress.com/
+p531
+sg8
+S'2013-02-09T10:00:00.000000-0600'
+p532
+sg10
+Vhttp://utmicrofarm.wordpress.com/
+p533
+sg12
+V2204 Leona Street
+p534
+sa(dp535
+g2
+S'2013-02-11T20:00:00.000000-0600'
+p536
+sg4
+VCaribbean Students Association holds general meeting
+p537
+sg6
+VThe Caribbean Students Association holds general meetings every other Monday. Join us in celebrating all aspects of Caribbean culture. Meetings feature free Caribbean food, and a chance to meet other Caribbean students and become involved in our vibrant organization.\u000a\u000aSource\u000ahttp://www.csautexas.org
+p538
+sg8
+S'2013-02-11T19:00:00.000000-0600'
+p539
+sg10
+Vhttp://www.csautexas.org
+p540
+sg12
+VStudent Activity Center (SAC) 1.118
+p541
+sa(dp542
+g2
+S'2013-02-12T20:00:00.000000-0600'
+p543
+sg4
+VHook the Cure holds general meeting
+p544
+sg6
+VMembers of Hook the Cure come together under one common goal: to raise diabetes awareness. Refreshments served. All majors welcome.\u000a\u000aSource\u000ahttp://texashookthecure.weebly.com/
+p545
+sg8
+S'2013-02-12T19:00:00.000000-0600'
+p546
+sg10
+Vhttp://texashookthecure.weebly.com/
+p547
+sg12
+VBenedict Hall (BEN) 1.122
+p548
+sa(dp549
+g2
+S'2013-02-12T20:00:00.000000-0600'
+p550
+sg4
+VOperation Smile meets
+p551
+sg6
+VOperation Smile is a nonprofit organization that transforms lives across the globe by funding surgeries for children and young adults who are born with facial deformities (specifically cleft lip or cleft palate). Join us in our efforts to spread smiles. New members welcome. Food provided.
+p552
+sg8
+S'2013-02-12T19:00:00.000000-0600'
+p553
+sg10
+Nsg12
+VParlin Hall (PAR) 208
+p554
+sa(dp555
+g2
+S'2013-02-12T22:00:00.000000-0600'
+p556
+sg4
+V"American Meat" screened on campus
+p557
+sg6
+VThe Campus Environmental Center presents "American Meat," a feature documentary about a grass-roots revolution in sustainable farming and the meat industry in America. A panel discussion with the film's director and other food world experts follows. A free after-party takes place at Chipotle on Guadalupe (food included).\u000a\u000aSource\u000ahttp://www.americanmeatfilm.com/
+p558
+sg8
+S'2013-02-12T19:00:00.000000-0600'
+p559
+sg10
+Vhttp://www.americanmeatfilm.com/
+p560
+sg12
+VTexas Union Building (UNB), Texas Union Theatre 2.228
+p561
+sa(dp562
+g2
+S'2013-02-15T20:00:00.000000-0600'
+p563
+sg4
+VGet to Know Your ABC's 2013 celebrates Black History Month
+p564
+sg6
+VThe Caribbean Students Association, Black Student Alliance and African Students Association celebrate Black History Month with Get to Know Your ABC's 2013. Join us for an evening of free ethnic food and performances that promises to be a cultural highlight of the year.\u000a\u000aSource\u000ahttp://www.facebook.com/events/387418424686698/?ref=ts&fref=ts
+p565
+sg8
+S'2013-02-15T18:00:00.000000-0600'
+p566
+sg10
+Vhttp://www.facebook.com/events/387418424686698/?ref=ts&fref=ts
+p567
+sg12
+VRobert Lee Moore Hall (RLM) 4.102
+p568
+sa(dp569
+g2
+S'2013-02-16T15:00:00.000000-0600'
+p570
+sg4
+VPlant trees in the Bastrop Lost Pines
+p571
+sg6
+VJoin the Campus Environmental Center in planting 2,500 trees in the charred forest of the Bastrop Lost Pines. Carpools leave from Littlefield Fountain on the south end of the South Mall at 7:30 a.m. Food provided. RSVP to Trees@UTEnvironment.org to help us plan transportation.\u000a\u000aSource\u000ahttp://UTEnvironment.org/Trees
+p572
+sg8
+S'2013-02-16T07:30:00.000000-0600'
+p573
+sg10
+Vhttp://UTEnvironment.org/Trees
+p574
+sg12
+VMeet at Littlefield Fountain to carpool
+p575
+sa(dp576
+g2
+S'2013-02-16T13:00:00.000000-0600'
+p577
+sg4
+VUT Micro Farm workday announced
+p578
+sg6
+VParticipate in a UT Micro Farm workday for a variety of tasks for all ages and skill levels. We are UT's first student-run sustainable farm. Tools and supplies provided, but additional construction tools welcome. Bring food for potluck. Closed-toed shoes required; don't forget water and work gloves. Contact microfarm@utenvironment.org with questions.\u000a\u000aSource\u000ahttp://utmicrofarm.wordpress.com/
+p579
+sg8
+S'2013-02-16T10:00:00.000000-0600'
+p580
+sg10
+Vhttp://utmicrofarm.wordpress.com/
+p581
+sg12
+V2204 Leona Street
+p582
+sa(dp583
+g2
+S'2013-02-16T16:00:00.000000-0600'
+p584
+sg4
+VBlack Male Summit announced
+p585
+sg6
+VThe Black Male Summit brings distinguished speakers to give their insight and advice on many aspects of life. This year's themes include social entrepreneurship and diversity in the workplace. Dean of Students Dr. Soncia Reagins-Lilly and Student Affairs Administrator Kyle Clark are featured speakers. Free food served.\u000a\u000aSource\u000ahttps://www.facebook.com/events/153937071426939/
+p586
+sg8
+S'2013-02-16T11:00:00.000000-0600'
+p587
+sg10
+Vhttps://www.facebook.com/events/153937071426939/
+p588
+sg12
+VGraduate School of Business (GSB) 2.124
+p589
+sa(dp590
+g2
+S'2013-02-18T16:00:00.000000-0600'
+p591
+sg4
+VOffice supply swap & recycling event held
+p592
+sg6
+VSwap unwanted office supplies for ones you need or clear out clutter. Used writing instruments recycled. Drop off items from 9 a.m.-noon; return to shop from 1:30-4 p.m. Snacks and coffee served for morning contributors. Special recycling also available for keys, e-waste, books, batteries, paper & cardboard, vinyl banners and ink & toner. Drop off anytime during the day.\u000a\u000a\u000a\u000aA second swap takes place Tuesday, Feb. 19, at Anna Hiss Gym (AHG) 135. \u000a\u000aSource\u000ahttp://www.utenvironment.org/officeswap
+p593
+sg8
+S'2013-02-18T09:00:00.000000-0600'
+p594
+sg10
+Vhttp://www.utenvironment.org/officeswap
+p595
+sg12
+VSan Jacinto Residence Hall (SJH), multipurpose room
+p596
+sa(dp597
+g2
+S'2013-02-19T16:00:00.000000-0600'
+p598
+sg4
+VOffice supply swap & recycling event held
+p599
+sg6
+VSwap unwanted office supplies for ones you need or clear out clutter. Used writing instruments recycled. Drop off items from 9 a.m.-noon; return to shop from 1:30-4 p.m. Snacks and coffee served for morning contributors. Special recycling also available for keys, e-waste, books, batteries, paper & cardboard, vinyl banners and ink & toner. Drop off anytime during the day.\u000a\u000a\u000a\u000aSource\u000ahttp://www.utenvironment.org/officeswap
+p600
+sg8
+S'2013-02-19T09:00:00.000000-0600'
+p601
+sg10
+Vhttp://www.utenvironment.org/officeswap
+p602
+sg12
+VAnna Hiss Gym (AHG) 135
+p603
+sa(dp604
+g2
+S'2013-02-25T19:30:00.000000-0600'
+p605
+sg4
+VEating Disorders Anonymous meets
+p606
+sg6
+VEating Disorders Anonymous welcomes members who struggle with food and healthy eating, the only requirement being a desire to recover. Meetings take place weekly. Please note time change. Contact Hilary at hjmkoo@utexas.edu for more information.\u000a\u000aSource\u000ahttp://www.utexas.edu/student/studentaffairs/recovery
+p607
+sg8
+S'2013-02-25T18:30:00.000000-0600'
+p608
+sg10
+Vhttp://www.utexas.edu/student/studentaffairs/recovery
+p609
+sg12
+VSchool of Social Work (SSW), Center for Students in Recovery (basement)
+p610
+sa(dp611
+g2
+S'2013-02-25T20:00:00.000000-0600'
+p612
+sg4
+VCaribbean Students Association holds general meeting
+p613
+sg6
+VThe Caribbean Students Association holds general meetings every other Monday. Join us in celebrating all aspects of Caribbean culture. Meetings feature free Caribbean food, and a chance to meet other Caribbean students and become involved in our vibrant organization.\u000a\u000aSource\u000ahttp://www.csautexas.org
+p614
+sg8
+S'2013-02-25T19:00:00.000000-0600'
+p615
+sg10
+Vhttp://www.csautexas.org
+p616
+sg12
+VStudent Activity Center (SAC) 1.118
+p617
+sa(dp618
+g2
+S'2013-02-26T20:00:00.000000-0600'
+p619
+sg4
+VHook the Cure holds general meeting
+p620
+sg6
+VMembers of Hook the Cure come together under one common goal: to raise diabetes awareness. Refreshments served. All majors welcome.\u000a\u000aSource\u000ahttp://texashookthecure.weebly.com/
+p621
+sg8
+S'2013-02-26T19:00:00.000000-0600'
+p622
+sg10
+Vhttp://texashookthecure.weebly.com/
+p623
+sg12
+VBenedict Hall (BEN) 1.122
+p624
+sa(dp625
+g2
+S'2013-02-26T20:00:00.000000-0600'
+p626
+sg4
+VOperation Smile meets
+p627
+sg6
+VOperation Smile is a nonprofit organization that transforms lives across the globe by funding surgeries for children and young adults who are born with facial deformities, specifically cleft lip or cleft palate. Join us in our efforts to spread smiles. New members welcome. Food provided.
+p628
+sg8
+S'2013-02-26T19:00:00.000000-0600'
+p629
+sg10
+Nsg12
+VParlin Hall (PAR) 208
+p630
+sa(dp631
+g2
+S'2013-02-27T20:00:00.000000-0600'
+p632
+sg4
+VSlow Food UT outing announced
+p633
+sg6
+VJoin Slow Food UT and Slow Food Austin for a chocolate-making slow session. Carpool available; email hbabich@utexas.edu to join carpool and visit the link below for more event information.\u000a\u000aSource\u000ahttp://slowfoodaustin.org/2013/02/12/slow-session-artisanal-chocolate-making-2272013/
+p634
+sg8
+S'2013-02-27T18:30:00.000000-0600'
+p635
+sg10
+Vhttp://slowfoodaustin.org/2013/02/12/slow-session-artisanal-chocolate-making-2272013/
+p636
+sg12
+VCarpool from Starbucks, 24th & Guadalupe; event at Clear Point Wellness, 2001 S. 1st St.
+p637
+sa(dp638
+g2
+S'2013-02-27T20:30:00.000000-0600'
+p639
+sg4
+VMuslims Without Borders Texas Members Social!
+p640
+sg6
+VMuslims Without Borders Texas hosts its first members' social of the semester, featuring fun icebreaker activities, board games and fun. Food served.
+p641
+sg8
+S'2013-02-27T18:45:00.000000-0600'
+p642
+sg10
+Nsg12
+VTexas Union Building (UNB), Texas Governors' Room 3.116
+p643
+sa(dp644
+g2
+S'2013-02-28T20:30:00.000000-0600'
+p645
+sg4
+VMuhammad (PBUH): Messenger of Peace presented
+p646
+sg6
+VThe University of Texas at Austin Ahmadiyya Muslim Students Organization is proud to host Muhammad (PBUH): Messenger of Peace, in conjunction with the Ahmadiyya Muslim Community of Austin. This event is among the first of a national campaign to refute misconceptions about the Prophet Muhammad and distinguish fact from fiction about his life and teachings. Food and drinks served.\u000a\u000a\u000a\u000aSource\u000ahttp://www.facebook.com/events/112063502311789/
+p647
+sg8
+S'2013-02-28T18:30:00.000000-0600'
+p648
+sg10
+Vhttp://www.facebook.com/events/112063502311789/
+p649
+sg12
+VWelch Hall (WEL) 2.122, Convocation Center
+p650
+sa(dp651
+g2
+S'2013-03-06T19:00:00.000000-0600'
+p652
+sg4
+VInternational Gastronomy Society meets
+p653
+sg6
+VLove to cook? Love to eat good food? Attend the upcoming meeting of the International Gastronomy Society. Contact gastronomyinternational@gmail.com with questions.\u000a\u000aSource\u000ahttp://www.facebook.com/groups/Internationalgastronomysociety/
+p654
+sg8
+S'2013-03-06T18:00:00.000000-0600'
+p655
+sg10
+Vhttp://www.facebook.com/groups/Internationalgastronomysociety/
+p656
+sg12
+VGearing Hall (GEA) 114
+p657
+sa(dp658
+g2
+S'2013-03-19T20:00:00.000000-0500'
+p659
+sg4
+VOperation Smile meets
+p660
+sg6
+VOperation Smile is a nonprofit organization that transforms lives across the globe by funding surgeries for children and young adults who are born with facial deformities, specifically cleft lip or cleft palate. Join us in our efforts to spread smiles. New members welcome. Food provided.
+p661
+sg8
+S'2013-03-19T19:00:00.000000-0500'
+p662
+sg10
+Nsg12
+VParlin Hall (PAR) 208
+p663
+sa(dp664
+g2
+S'2013-03-21T22:00:00.000000-0500'
+p665
+sg4
+VTASA presents Culture Night 
+p666
+sg6
+VThe Taiwanese American Student Association holds Culture Night in collaboration with the Taiwanese International Student Association (TiSA), recreating Taiwan's famous night markets, with free food, games and raffle prizes. Enjoy Mapo tofu, green onion pancakes, shaved ice and more.\u000a\u000aSource\u000ahttps://www.facebook.com/events/345689292216977/
+p667
+sg8
+S'2013-03-21T19:00:00.000000-0500'
+p668
+sg10
+Vhttps://www.facebook.com/events/345689292216977/
+p669
+sg12
+VGregory Gym Plaza (GRE)
+p670
+sa(dp671
+g2
+S'2013-03-23T15:00:00.000000-0500'
+p672
+sg4
+VBurpees for Boobies is breast cancer awareness fund-raiser
+p673
+sg6
+VHelp raise funds for breast cancer awareness resources in a competition involving workouts, awards, food, give-aways and more. All proceeds go to Passionately Pink for a Cure. Sign up at the link below, and visit the event on Facebook at \u000a\u000ahttps://www.facebook.com/events/426498310758909/.\u000a\u000aSource\u000ahttp://burpeesforboobies.eventbrite.com/
+p674
+sg8
+S'2013-03-23T10:00:00.000000-0500'
+p675
+sg10
+Vhttp://burpeesforboobies.eventbrite.com/
+p676
+sg12
+VMain Mall
+p677
+sa(dp678
+g2
+S'2013-03-27T19:00:00.000000-0500'
+p679
+sg4
+VInternational Gastronomy Society meets
+p680
+sg6
+VLove to cook? Love to eat good food? Attend the third general meeting of the International Gastronomy Society. Contact gastronomyinternational@gmail.com with questions.\u000a\u000aSource\u000ahttp://www.facebook.com/groups/internationalgastronomysociety/
+p681
+sg8
+S'2013-03-27T18:00:00.000000-0500'
+p682
+sg10
+Vhttp://www.facebook.com/groups/internationalgastronomysociety/
+p683
+sg12
+VGearing Hall (GEA) 114
+p684
+sa(dp685
+g2
+S'2013-03-27T21:00:00.000000-0500'
+p686
+sg4
+VAuthor discusses race and the green economy
+p687
+sg6
+VJoin author Dr. Alison Alkon for a Skype chat about her book "Black, White, and Green: Farmers Markets, Race and the Green Economy." An open discussion of the book and local food matters follows.
+p688
+sg8
+S'2013-03-27T19:00:00.000000-0500'
+p689
+sg10
+Nsg12
+VThe Carver Art Museum and Cultural Center, 1165 Angelina Street
+p690
+sa(dp691
+g2
+S'2013-03-28T19:00:00.000000-0500'
+p692
+sg4
+VHousing and community development panel convened
+p693
+sg6
+VJoin UT Habitat for Humanity at a panel on community development in the Austin area. Interact with professionals from Austin Habitat for Humanity, the Austin Community Design and Development Center, the Food is Free Project and the UT Center for Sustainable Development, and learn about housing and the creation of community in Austin. Complimentary snacks provided.
+p694
+sg8
+S'2013-03-28T17:30:00.000000-0500'
+p695
+sg10
+Nsg12
+VUniversity Teaching Center (UTC) 2.102A
+p696
+sa(dp697
+g2
+S'2013-03-29T18:00:00.000000-0500'
+p698
+sg4
+VFood drive and pool party combine fun with a good cause
+p699
+sg6
+VEscape the heat and help Rotaract in collaboration with the Iranian Students Academic and Cultural Organization raise funds and collect donations to combat childhood hunger in Austin. Snacks, drinks and live music provided. Water, Coke and Sprite will be sold for &#36;1. All proceeds, including donated cans of food, go to the Capital Area Food Bank.\u000a\u000aSource\u000ahttp://www.facebook.com/events/347811285327716/
+p700
+sg8
+S'2013-03-29T15:00:00.000000-0500'
+p701
+sg10
+Vhttp://www.facebook.com/events/347811285327716/
+p702
+sg12
+V2401 Longview Street (pool area)
+p703
+sa(dp704
+g2
+S'2013-04-02T13:00:00.000000-0500'
+p705
+sg4
+VInternational Food Challenge info session held
+p706
+sg6
+VThe Food Lab announces the Barilla Center for Food and Nutrition's BCFN Yes! annual food startup competition. Students at The University of Texas at Austin and other Texas colleges and universities can begin competing now for the chance in November to participate in the finals in Italy. Learn more at this session.\u000a\u000aSource\u000ahttp://www.bcfnyes.com/index.php?lang=en
+p707
+sg8
+S'2013-04-02T12:00:00.000000-0500'
+p708
+sg10
+Vhttp://www.bcfnyes.com/index.php?lang=en
+p709
+sg12
+VGoldsmith Hall (GOL) 3.118
+p710
+sa(dp711
+g2
+S'2013-04-02T20:00:00.000000-0500'
+p712
+sg4
+VHook the Cure holds meeting
+p713
+sg6
+VMembers of Hook the Cure come together under one common goal: to raise diabetes awareness. Refreshments served. All majors welcome.\u000a\u000aSource\u000ahttp://texashookthecure.weebly.com/
+p714
+sg8
+S'2013-04-02T19:00:00.000000-0500'
+p715
+sg10
+Vhttp://texashookthecure.weebly.com/
+p716
+sg12
+VBenedict Hall (BEN) 1.122
+p717
+sa(dp718
+g2
+S'2013-04-03T23:00:00.000000-0500'
+p719
+sg4
+VLions Club holds food sale fund-raiser
+p720
+sg6
+VThe Lions Club sells fried rice and drinks. Proceeds fund campaigns to raise awareness of and combat human trafficking. \u000a\u000aSource\u000ahttps://www.facebook.com/events/524731204240313/?ref=25
+p721
+sg8
+S'2013-04-03T17:00:00.000000-0500'
+p722
+sg10
+Vhttps://www.facebook.com/events/524731204240313/?ref=25
+p723
+sg12
+VPerry-Castaneda Library (PCL), plaza
+p724
+sa(dp725
+g2
+S'2013-04-03T21:00:00.000000-0500'
+p726
+sg4
+VGet global at Public Health Week event
+p727
+sg6
+VCultural and global health organizations present health highlights, information and issues in their respective countries via tabling or staged presentation. Free food served.\u000a\u000aSource\u000ahttp://www.texaspublichealth.org/?p=1002
+p728
+sg8
+S'2013-04-03T18:00:00.000000-0500'
+p729
+sg10
+Vhttp://www.texaspublichealth.org/?p=1002
+p730
+sg12
+VStudent Activity Center (SAC), auditorium
+p731
+sa(dp732
+g2
+S'2013-04-03T22:00:00.000000-0500'
+p733
+sg4
+VVAV presents Take Back the Night
+p734
+sg6
+VTake Back the Night is a gender-inclusive event that illuminates the movement to end sexual violence, including a survivor speak-out open mic, free food and t-shirts.
+p735
+sg8
+S'2013-04-03T18:30:00.000000-0500'
+p736
+sg10
+Nsg12
+VMain Mall
+p737
+sa(dp738
+g2
+S'2013-04-04T22:00:00.000000-0500'
+p739
+sg4
+VPublic Health Week Carnival announced
+p740
+sg6
+VEnjoy free games, food, prizes, activities and fun at the Public Health Week Carnival.\u000a\u000aSource\u000ahttp://www.texaspublichealth.org/?p=1002
+p741
+sg8
+S'2013-04-04T17:00:00.000000-0500'
+p742
+sg10
+Vhttp://www.texaspublichealth.org/?p=1002
+p743
+sg12
+VGregory Gym Plaza (GRE)
+p744
+sa(dp745
+g2
+S'2013-04-08T20:00:00.000000-0500'
+p746
+sg4
+VCaribbean Students Association holds general meeting
+p747
+sg6
+VThe Caribbean Students Association holds general meetings every other Monday. Join us in celebrating all aspects of Caribbean culture. Meetings feature free Caribbean food, and a chance to meet other Caribbean students and become involved in our vibrant organization.\u000a\u000aSource\u000ahttp://www.csautexas.org
+p748
+sg8
+S'2013-04-08T19:00:00.000000-0500'
+p749
+sg10
+Vhttp://www.csautexas.org
+p750
+sg12
+VStudent Activity Center (SAC) 3.112
+p751
+sa(dp752
+g2
+S'2013-04-10T23:00:00.000000-0500'
+p753
+sg4
+VLions Club holds food sale fund-raiser
+p754
+sg6
+VThe Lions Club sells fried rice and drinks. Proceeds fund campaigns to raise awareness of and combat human trafficking. \u000a\u000aSource\u000ahttps://www.facebook.com/events/524731204240313/?ref=25
+p755
+sg8
+S'2013-04-10T17:00:00.000000-0500'
+p756
+sg10
+Vhttps://www.facebook.com/events/524731204240313/?ref=25
+p757
+sg12
+VPerry-Castaneda Library (PCL), plaza
+p758
+sa(dp759
+g2
+S'2013-04-10T20:00:00.000000-0500'
+p760
+sg4
+VDr. Gloria Gonzalez-Lopez discusses masculinities, violence
+p761
+sg6
+VJoin students and off-campus community partners as Voices Against Violence welcomes Dr. Gloria Gonzalez-Lopez to discusses masculinities and antiviolence. Free food served.
+p762
+sg8
+S'2013-04-10T18:30:00.000000-0500'
+p763
+sg10
+Nsg12
+VCollege of Liberal Arts Building (CLA) 0.102
+p764
+sa(dp765
+g2
+S'2013-04-15T20:30:00.000000-0500'
+p766
+sg4
+VTheatre for Dialogue & Laura Dannenmaier discuss assault
+p767
+sg6
+VAttend a discussion and performance on how to support survivors of assault and speak out against rape culture. Free food served.
+p768
+sg8
+S'2013-04-15T18:30:00.000000-0500'
+p769
+sg10
+Nsg12
+VCalhoun Hall (CAL) 100
+p770
+sa(dp771
+g2
+S'2013-04-19T22:00:00.000000-0500'
+p772
+sg4
+VJapanese Association host Golden Week Festival
+p773
+sg6
+VThe Japanese Association holds its annual Golden Week Festival. Enjoy performances, games and great Japanese food with friends and family.\u000a\u000aSource\u000ahttp://utexasja.org/
+p774
+sg8
+S'2013-04-19T19:00:00.000000-0500'
+p775
+sg10
+Vhttp://utexasja.org/
+p776
+sg12
+VGregory Gym Plaza (GRE)
+p777
+sa(dp778
+g2
+S'2013-04-22T14:00:00.000000-0500'
+p779
+sg4
+VEarth Day Carnival celebrates sustainability
+p780
+sg6
+VAt the Earth Day Carnival, student organizations and UT departments celebrate sustainability with games, prizes and lots of fun. Free food, face painting, a photo booth and educational games are all part of the event. Fill out a form here if you would like to volunteer: https://docs.google.com/a/utenvironment.org/spreadsheet/viewform?formkey=dHBHS0FIcUVSTUpPMU9Eam1kdFdyZnc6MQ.\u000a\u000aSource\u000ahttp://utenvironment.org
+p781
+sg8
+S'2013-04-22T10:00:00.000000-0500'
+p782
+sg10
+Vhttp://utenvironment.org
+p783
+sg12
+VSpeedway Plaza
+p784
+sa(dp785
+g2
+S'2013-04-22T20:30:00.000000-0500'
+p786
+sg4
+VCaribbean Students Association meets
+p787
+sg6
+VThe Caribbean Students Association holds general meetings every Monday. Join us in celebrating all aspects of Caribbean culture. Meetings feature free Caribbean food, and a chance to meet other Caribbean students and become involved in our vibrant organization.\u000a\u000aSource\u000ahttp://www.csautexas.org
+p788
+sg8
+S'2013-04-22T19:00:00.000000-0500'
+p789
+sg10
+Vhttp://www.csautexas.org
+p790
+sg12
+VStudent Activity Center (SAC) 1.118
+p791
+sa(dp792
+g2
+S'2013-04-25T20:30:00.000000-0500'
+p793
+sg4
+VCooperation Texas & Food for Black Thought hold workshop
+p794
+sg6
+VA workshop and potluck with Cooperation Texas and Food for Black Thought explores the past and present state of the racial wealth divide in the U.S. and Texas, and how worker-owned cooperatives can serve as the basis of a more just and sustainable economy.\u000a\u000a\u000a\u000aThis workshop may especially appeal to you if:\u000a\u000a* You're ready to talk fresh ways to address food issues\u000a\u000a* You're inspired to create a food cooperative\u000a\u000a* You have a food cooperative group in the works\u000a\u000a* You want facts and action
+p795
+sg8
+S'2013-04-25T18:00:00.000000-0500'
+p796
+sg10
+Nsg12
+V5604 Manor Road
+p797
+sa(dp798
+g2
+S'2013-04-25T20:30:00.000000-0500'
+p799
+sg4
+VListen to Autism panel and silent auction held
+p800
+sg6
+VAutism Speaksmarks Autism Awareness Month with a Listen to Autism Panel of professionals from the field, researchers and local service providers. A silent auction benefits the national Autism Speaks charity. Refreshments served.\u000a\u000aSource\u000ahttps://www.facebook.com/events/156255371210649/?ref=notif&notif_t=plan_user_invited
+p801
+sg8
+S'2013-04-25T18:30:00.000000-0500'
+p802
+sg10
+Vhttps://www.facebook.com/events/156255371210649/?ref=notif&notif_t=plan_user_invited
+p803
+sg12
+VBurdine Hall (BUR) 106
+p804
+sa(dp805
+g2
+S'2013-04-25T21:00:00.000000-0500'
+p806
+sg4
+VWorlds Unite celebrates campus diversity with festival
+p807
+sg6
+VUT's Kappa Phi Lambda Sorority hosts its third annual Worlds Unite. Join us for a night of food, performances, games and prizes that celebrates diversity and promotes cultural integration.
+p808
+sg8
+S'2013-04-25T19:00:00.000000-0500'
+p809
+sg10
+Nsg12
+VMain Mall
+p810
+sa(dp811
+g2
+S'2013-04-28T16:00:00.000000-0500'
+p812
+sg4
+VIntegrated pest management class held at Community Garden
+p813
+sg6
+VBe an environmental steward while growing your own food in a sustainable way. Integrated pest management is a system of pest control that minimizes chemical use. Learn to identify common garden pests and organic remedy solutions. Class is led by Elizabeth McVeety, Garden Center coordinator for Austin's Zilker Botanical Garden.\u000a\u000aSource\u000ahttp://utenvironment.org
+p814
+sg8
+S'2013-04-28T14:00:00.000000-0500'
+p815
+sg10
+Vhttp://utenvironment.org
+p816
+sg12
+VUT Concho Community Garden
+p817
+sa(dp818
+g2
+S'2013-05-01T15:00:00.000000-0500'
+p819
+sg4
+VBike to UT Day Party on the Plaza announced
+p820
+sg6
+VEnjoy food, drink, giveaways and celebrate cycling to campus at this party on Bike to UT Day. \u000a\u000aSource\u000ahttp://www.utexas.edu/parking/bike
+p821
+sg8
+S'2013-05-01T12:00:00.000000-0500'
+p822
+sg10
+Vhttp://www.utexas.edu/parking/bike
+p823
+sg12
+VGregory Gym Plaza (GRE)
+p824
+sa(dp825
+g2
+S'2012-10-03T22:00:00.000000-0500'
+p826
+sg4
+VPresidential debate watch party announced
+p827
+sg6
+VJoin the Texas Freedom Network's student chapter for the hippest presidential debate watch party in Austin. Free pizza and free soda served. Stay after the debate for a 30-minute discussion about the importance of public education.\u000a\u000aSource\u000ahttps://www.facebook.com/events/353595851399748/
+p828
+sg8
+S'2012-10-03T20:00:00.000000-0500'
+p829
+sg10
+Vhttps://www.facebook.com/events/353595851399748/
+p830
+sg12
+VMezes Hall (MEZ) 1.306
+p831
+sa(dp832
+g2
+S'2012-10-16T17:45:00.000000-0500'
+p833
+sg4
+VPolitics of inclusion is topic of talk
+p834
+sg6
+VProfessor Mala Htun of the University of New Mexico presents a talk titled "Politics of Inclusion: Women, Afrodescendants, and Indigenous Peoples in Latin America." Light refreshments served.\u000a\u000aSource\u000ahttp://www.utexas.edu/law/centers/humanrights/events/speaker-series.php
+p835
+sg8
+S'2012-10-16T15:45:00.000000-0500'
+p836
+sg10
+Vhttp://www.utexas.edu/law/centers/humanrights/events/speaker-series.php
+p837
+sg12
+VSchool of Law (TNH) 2.111
+p838
+sa(dp839
+g2
+S'2012-10-16T20:30:00.000000-0500'
+p840
+sg4
+VLatin America Network presents discussion on Cuba
+p841
+sg6
+VJoin the Latin America Network for its first meeting of the year, featuring an open discussion on Cuba in the historical and modern context, including cultural topics. Food and drink provided.
+p842
+sg8
+S'2012-10-16T19:00:00.000000-0500'
+p843
+sg10
+Nsg12
+VSanchez Building (SZB) 416
+p844
+sa(dp845
+g2
+S'2012-10-18T20:30:00.000000-0500'
+p846
+sg4
+VCongressman Mickey Edwards discusses partisanship
+p847
+sg6
+VFormer U.S. congressman Mickey Edwards discusses the current election and his new book, "The Parties Versus The People: How to Turn Republicans and Democrats into Americans." Edwards represented Oklahoma's 5th District in the U.S. House of Representatives for 16 years, and served on the Budget and Appropriations Committees.\u000a\u000aSource\u000ahttp://www.utexas.edu/ugs/uhc/joynes/literary-series
+p848
+sg8
+S'2012-10-18T19:00:00.000000-0500'
+p849
+sg10
+Vhttp://www.utexas.edu/ugs/uhc/joynes/literary-series
+p850
+sg12
+VCarothers Dormitory (CRD), Joynes Reading Room 007
+p851
+sa(dp852
+g2
+S'2012-11-06T23:00:00.000000-0600'
+p853
+sg4
+VDecision 2012: Watch it happen at SAC ballroom
+p854
+sg6
+VDecision 2012 is a presidential election watch party intended to unify the many cultures on UT's campus. Multiple organizations have joined forces to provide students with a safe space to watch history happen. Watch party features free food, a live DJ and more fun than one description can contain.\u000a\u000aSource\u000ahttp://www.facebook.com/events/477694898941320/?ref=notif&notif_t=plan_user_invited
+p855
+sg8
+S'2012-11-06T19:00:00.000000-0600'
+p856
+sg10
+Vhttp://www.facebook.com/events/477694898941320/?ref=notif&notif_t=plan_user_invited
+p857
+sg12
+VStudent Activity Center (SAC), ballroom 2.410
+p858
+sa(dp859
+g2
+S'2012-11-08T19:30:00.000000-0600'
+p860
+sg4
+VIsrael advocate Neil Lazarus speaks
+p861
+sg6
+VTexans for Israel, Stand with Us, The David Project and CUFI present renowned British lecturer Neil Lazarus, who discusses how to advocate for Israel and why it is so important. Snacks and refreshments served.\u000a\u000aSource\u000ahttp://www.facebook.com/events/323948047712761/
+p862
+sg8
+S'2012-11-08T18:30:00.000000-0600'
+p863
+sg10
+Vhttp://www.facebook.com/events/323948047712761/
+p864
+sg12
+VTexas Hillel 
+p865
+sa(dp866
+g2
+S'2012-11-14T21:00:00.000000-0600'
+p867
+sg4
+VConfessions of a Recovering Skinhead presented by ADL
+p868
+sg6
+V"Confessions of a Recovering Skinhead" is presented at a special live-stream viewing of the ADL National Event from Chicago, welcoming reformed skinhead Frank Meeink, who became a skinhead at the age of 13. Meeink discusses his work with domestic hate groups and his eventual redemption and continued work with the ADL nationwide. A discussion follows with free pizza served. RVSP to Jordan at JWeber@ADL.org.
+p869
+sg8
+S'2012-11-14T19:30:00.000000-0600'
+p870
+sg10
+Nsg12
+VTexas Hillel, 2105 San Antonio Street, corner of 21st and San Antonio
+p871
+sa(dp872
+g2
+S'2012-12-06T18:15:00.000000-0600'
+p873
+sg4
+VStudents present "Energy Vignettes" video series
+p874
+sg6
+VAt this week's UT Energy Symposium, students present "Energy Vignettes," a video-clip series on cutting-edge energy issues. Coffee and cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p875
+sg8
+S'2012-12-06T17:15:00.000000-0600'
+p876
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p877
+sg12
+VMezes Hall (MEZ) 1.306
+p878
+sa(dp879
+g2
+S'2013-01-22T19:00:00.000000-0600'
+p880
+sg4
+VAIESEC Austin holds information session
+p881
+sg6
+VLearn about interning abroad or becoming a member of AIESEC at an information session featuring free food. AIESEC is the world's largest student-run nonprofit organization. It provides a platform for students to develop professional skills, establish a global network of friends and colleagues and intern abroad.\u000a\u000aSource\u000ahttp://www.aiesecaustin.org
+p882
+sg8
+S'2013-01-22T18:00:00.000000-0600'
+p883
+sg10
+Vhttp://www.aiesecaustin.org
+p884
+sg12
+VUniversity Teaching Center (UTC) 3.120
+p885
+sa(dp886
+g2
+S'2013-01-24T19:00:00.000000-0600'
+p887
+sg4
+VAIESEC Austin holds information session
+p888
+sg6
+VLearn about interning abroad or becoming a member of AIESEC at an information session featuring free food. AIESEC is the world's largest student-run nonprofit organization. It provides a platform for students to develop professional skills, establish a global network of friends and colleagues and intern abroad.\u000a\u000aSource\u000ahttp://www.aiesecaustin.org
+p889
+sg8
+S'2013-01-24T18:00:00.000000-0600'
+p890
+sg10
+Vhttp://www.aiesecaustin.org
+p891
+sg12
+VUniversity Teaching Center (UTC) 1.146
+p892
+sa(dp893
+g2
+S'2013-01-25T20:00:00.000000-0600'
+p894
+sg4
+VInternational Affairs Society holds info sessions
+p895
+sg6
+VInterested in international issues, cultures, careers or food? Learn about the International Affairs Society, a multifaceted campus organization, at this meeting. All majors welcome.\u000a\u000aSource\u000ahttp://texasias.org
+p896
+sg8
+S'2013-01-25T19:00:00.000000-0600'
+p897
+sg10
+Vhttp://texasias.org
+p898
+sg12
+VWaggener Hall (WAG) 201
+p899
+sa(dp900
+g2
+S'2013-01-28T20:00:00.000000-0600'
+p901
+sg4
+VInternational Affairs Society holds spring kickoff meeting
+p902
+sg6
+VInterested in international issues, cultures, careers or food? Learn about the International Affairs Society, a multifaceted campus organization, at this meeting. All majors welcome; food and refreshments served.\u000a\u000aSource\u000ahttp://www.texasias.org
+p903
+sg8
+S'2013-01-28T19:00:00.000000-0600'
+p904
+sg10
+Vhttp://www.texasias.org
+p905
+sg12
+VUniversity Teaching Center (UTC) 3.102
+p906
+sa(dp907
+g2
+S'2013-01-30T19:00:00.000000-0600'
+p908
+sg4
+VAIESEC Austin holds information session
+p909
+sg6
+VLearn about interning abroad or becoming a member of AIESEC at an information session featuring free food. AIESEC is the world's largest student-run nonprofit organization. It provides a platform for students to develop professional skills, establish a global network of friends and colleagues and intern abroad.
+p910
+sg8
+S'2013-01-30T18:00:00.000000-0600'
+p911
+sg10
+Nsg12
+VUniversity Teaching Center (UTC) 1.144
+p912
+sa(dp913
+g2
+S'2013-01-31T19:00:00.000000-0600'
+p914
+sg4
+VAIESEC Austin holds information session
+p915
+sg6
+VLearn about interning abroad or becoming a member of AIESEC at an information session featuring free food. AIESEC is the world's largest student-run nonprofit organization. It provides a platform for students to develop professional skills, establish a global network of friends and colleagues and intern abroad.\u000a\u000aSource\u000ahttp://www.aiesecaustin.org
+p916
+sg8
+S'2013-01-31T18:00:00.000000-0600'
+p917
+sg10
+Vhttp://www.aiesecaustin.org
+p918
+sg12
+VUniversity Teaching Center (UTC) 1.146
+p919
+sa(dp920
+g2
+S'2013-02-02T22:00:00.000000-0600'
+p921
+sg4
+VA Night in the Caribbean brings dance, food, fun
+p922
+sg6
+VJoin the Latin America Network for a night of dance, food and fun as we celebrate the cultures of the Latin American nations of the Caribbean. Free food and drink, raffles and other fun activities provided.
+p923
+sg8
+S'2013-02-02T20:00:00.000000-0600'
+p924
+sg10
+Nsg12
+VStudent Activity Center (SAC), ballroom
+p925
+sa(dp926
+g2
+S'2013-02-07T18:15:00.000000-0600'
+p927
+sg4
+VChanging technology and regulation is lecture topic
+p928
+sg6
+VSherman Elliott, consultant and former commissioner at the Illinois Commerce Commission, speaks at this week's UT Energy Symposium. His talk is titled "Emerging Supply- and Demand-Side Technologies Are Pressuring Regulators to Change Course - But Do They Have the Political Will?" Cookies served at 5 p.m.\u000a\u000a\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p929
+sg8
+S'2013-02-07T17:15:00.000000-0600'
+p930
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p931
+sg12
+VMezes Hall (MEZ) 1.306
+p932
+sa(dp933
+g2
+S'2013-02-11T19:00:00.000000-0600'
+p934
+sg4
+VGlobal Environmental Brigade holds info session
+p935
+sg6
+VThe mission of the Global Environmental Brigades is to empower rural communities in Panama to reverse degradation and preserve their environment. Attend this meeting to learn more. Food provided. Visit http://www.globalbrigades.org/environmental-brigades-overview, or keep up with our events on Facebook at the link below.\u000a\u000aSource\u000ahttps://www.facebook.com/events/597251490289076/
+p936
+sg8
+S'2013-02-11T18:00:00.000000-0600'
+p937
+sg10
+Vhttps://www.facebook.com/events/597251490289076/
+p938
+sg12
+VCollege of Liberal Arts Building (CLA) 0.106
+p939
+sa(dp940
+g2
+S'2013-02-21T20:30:00.000000-0600'
+p941
+sg4
+VLibertarian Longhorns movie night presents "Beer Wars"
+p942
+sg6
+VIf you're in college, you've probably had at least some contact with beer. But have you ever stopped to consider how the beer industry operates, and how the government has played a role in keeping smaller, subjectively better beer companies from garnering a larger share of the market?  Join Libertarian Longhorns for a screening of "Beer Wars." Pizza served.\u000a\u000a\u000a\u000aDo you generally identify with Republicans on fiscal matters but tend to agree with Democrats on issues of social equality? You might be a libertarian. Libertarian Longhorns is a diverse, issue-oriented, nonpartisan organization dedicated to exposing students to the libertarian philosophies of nonaggression and individual freedom. Learn more at our weekly general meeting. \u000a\u000a\u000a\u000aLibertarian Longhorns promotes idea transparency, free markets, free people and sound money. \u000a\u000a\u000a\u000aAsk us about our sister group, the Mises Circle, which focuses on Austrian economics, the school of thought that predicted the housing bubble 10 years before it popped.\u000a\u000aSource\u000ahttp://libertarianlonghorns.com/
+p943
+sg8
+S'2013-02-21T19:00:00.000000-0600'
+p944
+sg10
+Vhttp://libertarianlonghorns.com/
+p945
+sg12
+VGarrison Hall (GAR) 0.132
+p946
+sa(dp947
+g2
+S'2013-03-19T20:30:00.000000-0500'
+p948
+sg4
+VFilm examines textbook censorship by state education board
+p949
+sg6
+V"The Revisionaries" is a brand new documentary on the battle between the Texas Freedom Network (TFN) and the Texas State Board of Education over textbook censorship and public school curriculum standards. TFN president Kathy Miller and documentary director Scott Thurman attend a Q&A after the screening. Free pizza served, with vegetarian and gluten-free options.\u000a\u000aSource\u000ahttps://www.facebook.com/events/340483982718210/
+p950
+sg8
+S'2013-03-19T18:30:00.000000-0500'
+p951
+sg10
+Vhttps://www.facebook.com/events/340483982718210/
+p952
+sg12
+VTexas Union Building (UNB), theater 2.228
+p953
+sa(dp954
+g2
+S'2013-04-03T20:30:00.000000-0500'
+p955
+sg4
+VSave Our Community Coalition hosts forum on UT outsourcing
+p956
+sg6
+VOn January 29, President Bill Powers presented "Smarter Systems for a Greater UT," a plan to increase efficiency at UT, including outsourcing of facility, housekeeping and food service workers on campus. Join the UT Save Our Community Coalition at a forum discussing the implications of outsourcing for campus workers.\u000a\u000aSource\u000ahttps://www.facebook.com/events/440610569354503/
+p957
+sg8
+S'2013-04-03T19:00:00.000000-0500'
+p958
+sg10
+Vhttps://www.facebook.com/events/440610569354503/
+p959
+sg12
+VUniversity Teaching Center (UTC) 3.112
+p960
+sa(dp961
+g2
+S'2013-04-08T18:30:00.000000-0500'
+p962
+sg4
+VCharles Moyer discusses Inter-American Human Rights System
+p963
+sg6
+VCharles Moyer of the Inter-American Institute of Human Rights presents a talk titled "The Inter-American System of Human Rights: From an Auspicious Beginning to an Uncertain Future." Professor Ariel Dulitzky serves as respondent. Light refreshments served.\u000a\u000aSource\u000ahttp://www.utexas.edu/law/centers/humanrights/events/
+p964
+sg8
+S'2013-04-08T17:00:00.000000-0500'
+p965
+sg10
+Vhttp://www.utexas.edu/law/centers/humanrights/events/
+p966
+sg12
+VSchool of Law (TNH) 2.111
+p967
+sa(dp968
+g2
+S'2013-04-16T20:00:00.000000-0500'
+p969
+sg4
+VLatino-Jewish panel slated
+p970
+sg6
+VThe Latino-Jewish Student Coalition hosts a panel on the importance of creating a relationship between the Latino and Jewish communities. Panelists include Dr. Amelia Weinreb, anthropology and Jewish studies; Eli Levine, managing director of Hasbara Fellowships; Mack Hernandez, local attorney; and Elizabeth Anderson, UT student. Pizza and snacks served.\u000a\u000aSource\u000ahttp://www.facebook.com/events/164681207024887/
+p971
+sg8
+S'2013-04-16T18:00:00.000000-0500'
+p972
+sg10
+Vhttp://www.facebook.com/events/164681207024887/
+p973
+sg12
+VStudent Activity Center (SAC), Multicultural Engagement Center 1.102
+p974
+sa(dp975
+g2
+S'2013-04-23T22:00:00.000000-0500'
+p976
+sg4
+VInternational Relations Benefit Sale announced
+p977
+sg6
+VThe International Relations Special Committee (IRSC) of the Lions Club hosts a three-day food sale featuring cuisine from Africa, Latin America, the Middle East and Asia. Proceeds go to a Filipino child sponsored by the committee and to IRSC's pen-pal program with Kenya.\u000a\u000aSource\u000ahttp://goo.gl/UIL4z
+p978
+sg8
+S'2013-04-23T17:00:00.000000-0500'
+p979
+sg10
+Vhttp://goo.gl/UIL4z
+p980
+sg12
+VJester Center (JES)
+p981
+sa(dp982
+g2
+S'2013-04-24T21:00:00.000000-0500'
+p983
+sg4
+VBelieve in Zero Fair hosted by UNICEF
+p984
+sg6
+VStudents are invited to learn about global issues and the shared humanitarian efforts of UNICEF and other student organizations on campus. The Believe in Zero Fair features free food, games and other fun activities.
+p985
+sg8
+S'2013-04-24T18:00:00.000000-0500'
+p986
+sg10
+Nsg12
+VGregory Gym Plaza (GRE)
+p987
+sa(dp988
+g2
+S'2012-10-02T20:00:00.000000-0500'
+p989
+sg4
+VEntrepreneurship Live features chairman & CEO of Barynoyx
+p990
+sg6
+VThis week's Entrepreneurship Live features Ian Hatton, CEO and chairman of Barynoyx Corporation, which specializes in offshore wind energy and energy data centers. If you have an interest in clean technologies, don't miss this event. Meet and greet begins at 5:30 p.m. Networking event, with food and drinks, follows at 8 p.m.\u000a\u000aSource\u000ahttp://tinyurl.com/EIR-Speakers-Oct-2
+p991
+sg8
+S'2012-10-02T17:30:00.000000-0500'
+p992
+sg10
+Vhttp://tinyurl.com/EIR-Speakers-Oct-2
+p993
+sg12
+VAT&T Executive Education and Conference Center (ATT) 201
+p994
+sa(dp995
+g2
+S'2012-10-02T20:30:00.000000-0500'
+p996
+sg4
+VAmazon.com tech talk and info session presented
+p997
+sg6
+VAttend a tech talk and information session on how scalability programming and machine learning are used at Amazon. Amazon is currently hiring full-time software engineers. Free food served and free Amazon t-shirts given away.
+p998
+sg8
+S'2012-10-02T18:30:00.000000-0500'
+p999
+sg10
+Nsg12
+VWelch Hall (WEL) 2.224
+p1000
+sa(dp1001
+g2
+S'2012-10-03T18:30:00.000000-0500'
+p1002
+sg4
+VNatural Sciences Week hosts Quiz Bowl
+p1003
+sg6
+VTest your mettle or watch others face College of Natural Sciences professors in Natural Science Council's Quiz Bowl trivia night. Free food served.\u000a\u000aSource\u000ahttp://cns.utexas.edu/nsc
+p1004
+sg8
+S'2012-10-03T17:00:00.000000-0500'
+p1005
+sg10
+Vhttp://cns.utexas.edu/nsc
+p1006
+sg12
+VWelch Hall (WEL) 2.246
+p1007
+sa(dp1008
+g2
+S'2012-10-04T20:00:00.000000-0500'
+p1009
+sg4
+VNatural Sciences Week holds dress-for-success workshop
+p1010
+sg6
+VYou have the brains, skill and talent for the job, but there is only one problem ... What to wear? Learn about appropriate attire in the business world for interviews and on-the-job wear. Free food and prizes included.
+p1011
+sg8
+S'2012-10-04T18:30:00.000000-0500'
+p1012
+sg10
+Nsg12
+VWelch Hall (WEL) 3.502
+p1013
+sa(dp1014
+g2
+S'2012-11-01T18:15:00.000000-0500'
+p1015
+sg4
+VUT Energy Symposium presents panel on climate change
+p1016
+sg6
+VThis week, the UT Energy Symposium presents a panel discussion on climate change with Professor J. Eric Bickel of the Cockrell School of Engineering and Lee Lane, visiting fellow at the Hudson Institute. Cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1017
+sg8
+S'2012-11-01T17:15:00.000000-0500'
+p1018
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1019
+sg12
+VMezes Hall (MEZ) 1.306
+p1020
+sa(dp1021
+g2
+S'2012-11-06T19:00:00.000000-0600'
+p1022
+sg4
+VBusiness Healthcare Association meeting hosts speaker
+p1023
+sg6
+VThe Business Healthcare Association welcomes special guest speaker Leslie Carruth, health analysis specialist at The University of Texas System. Free pizza served.\u000a\u000aSource\u000ahttp://www.facebook.com/groups/288592351154680/?fref=ts
+p1024
+sg8
+S'2012-11-06T18:00:00.000000-0600'
+p1025
+sg10
+Vhttp://www.facebook.com/groups/288592351154680/?fref=ts
+p1026
+sg12
+VMcCombs School of Business (CBA) 4.324
+p1027
+sa(dp1028
+g2
+S'2012-11-19T18:30:00.000000-0600'
+p1029
+sg4
+VTexas Nutrition holds general meeting
+p1030
+sg6
+VJoin Texas Nutrition for its sixth meeting of the fall semester. UT Professor Lydia Steinman discusses container gardening. Food provided.\u000a\u000aSource\u000ahttp://texasntr.com/
+p1031
+sg8
+S'2012-11-19T17:00:00.000000-0600'
+p1032
+sg10
+Vhttp://texasntr.com/
+p1033
+sg12
+VBurdine Hall (BUR) 208
+p1034
+sa(dp1035
+g2
+S'2012-11-29T18:15:00.000000-0600'
+p1036
+sg4
+VFuture of nuclear power is Energy Institute talk topic
+p1037
+sg6
+VProfessor Dale Klein, associate director of the Energy Institute, associate vice president for research at UT Austin and former chair of the Nuclear Regulatory Commission, presents a talk titled "The Road Forward for Nuclear in the U.S. and Internationally." Cookies served at 5 p.m.\u000a\u000a\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1038
+sg8
+S'2012-11-29T17:15:00.000000-0600'
+p1039
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1040
+sg12
+VMezes Hall (MEZ) 1.306
+p1041
+sa(dp1042
+g2
+S'2012-12-04T19:15:00.000000-0600'
+p1043
+sg4
+VBusiness Healthcare Association meets with Sen. Kirk Watson
+p1044
+sg6
+VState Senator Kirk Watson discusses Proposition 1, UT Medical School, and what it means for future medical school applicants. Watson is a Texas attorney and politician from Austin. He served as Austin mayor from 1997 to 2001. \u000a\u000aFree pizza will be served.\u000a\u000aSource\u000ahttp://www.facebook.com/events/360439507384767/?notif_t=plan_user_joined
+p1045
+sg8
+S'2012-12-04T18:15:00.000000-0600'
+p1046
+sg10
+Vhttp://www.facebook.com/events/360439507384767/?notif_t=plan_user_joined
+p1047
+sg12
+VMcCombs School of Business (CBA) 4.324
+p1048
+sa(dp1049
+g2
+S'2013-01-30T20:00:00.000000-0600'
+p1050
+sg4
+VFIMRC, a medical aid group, holds first general meeting
+p1051
+sg6
+VFIMRC is the Foundation for the International Medical Relief of Children. Our Texas chapter helps raise money for FIMRC's cause. This year, funding goes to buy iron supplements and other multi-vitamins for mothers in India. Attend this meeting to learn more. Free pizza served.
+p1052
+sg8
+S'2013-01-30T19:00:00.000000-0600'
+p1053
+sg10
+Nsg12
+VRobert Lee Moore Hall (RLM) 5.112
+p1054
+sa(dp1055
+g2
+S'2013-02-05T20:00:00.000000-0600'
+p1056
+sg4
+VEntrepreneurship Live presents Hemi Thaker, Anue Systems
+p1057
+sg6
+VEntrepreneurship Live presents Hemi Thaker of Anue Systems. Thaker was named Ernst and Young Enterpreneur of the Year 2011 in Central Texas for his passion for solving complex customer problems using leading-edge technology. Food and drink reception follows the talk.\u000a\u000aSource\u000ahttp://tinyurl.com/EIR-Speakers-Feb-5
+p1058
+sg8
+S'2013-02-05T17:30:00.000000-0600'
+p1059
+sg10
+Vhttp://tinyurl.com/EIR-Speakers-Feb-5
+p1060
+sg12
+VAT&T Executive Education and Conference Center (ATT) 205
+p1061
+sa(dp1062
+g2
+S'2013-02-07T19:00:00.000000-0600'
+p1063
+sg4
+VMarine Science Club holds first general meeting
+p1064
+sg6
+VThe Marine Science Club is dedicated to exposing students to different aspects of the marine sciences and fostering exploration of the field among like-minded students through seminars and community activities. Join us for our first general meeting. Pizza served.\u000a\u000aSource\u000ahttp://facebook.com/groups/MarineScienceClubUT
+p1065
+sg8
+S'2013-02-07T18:00:00.000000-0600'
+p1066
+sg10
+Vhttp://facebook.com/groups/MarineScienceClubUT
+p1067
+sg12
+VWaggener Hall (WAG) 214
+p1068
+sa(dp1069
+g2
+S'2013-02-12T20:00:00.000000-0600'
+p1070
+sg4
+VEntrepreneurship Live hosts Satin Mirchandani, MD Buyline
+p1071
+sg6
+VEntrepreneurship Live presents an evening with Satin Mirchandani, a serial entrepreneur and technology executive who currently serves as CEO of MD Buyline, a health-care information services company headquartered in Dallas. Food and drinks served following the program.\u000a\u000aSource\u000ahttp://tinyurl.com/EIR-Speakers-Feb-12
+p1072
+sg8
+S'2013-02-12T17:30:00.000000-0600'
+p1073
+sg10
+Vhttp://tinyurl.com/EIR-Speakers-Feb-12
+p1074
+sg12
+VAT&T Executive Education and Conference Center (ATT) 201
+p1075
+sa(dp1076
+g2
+S'2013-02-28T18:15:00.000000-0600'
+p1077
+sg4
+VSmart grids are topic of Energy Symposium
+p1078
+sg6
+VJohn McDonald, director of Technical Strategy & Policy Development at GE Energy Management-Digital Energy, presents a talk titled "All You Ever Wanted to Know About Smart Grids" at this week's Energy Symposium. Cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1079
+sg8
+S'2013-02-28T17:15:00.000000-0600'
+p1080
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1081
+sg12
+VMezes Hall (MEZ) 1.306
+p1082
+sa(dp1083
+g2
+S'2013-02-28T20:00:00.000000-0600'
+p1084
+sg4
+VA Date with Science looks at dinner & dessert chemistry
+p1085
+sg6
+VCreative Chemistry presents "A Date with Science: Dinner and Dessert Chemistry." Learn about the chemical reactions that release robust flavors and how to alter the boost the flavor of food by altering its preparation.
+p1086
+sg8
+S'2013-02-28T18:30:00.000000-0600'
+p1087
+sg10
+Nsg12
+VHackerman Building (NHB) 1.720
+p1088
+sa(dp1089
+g2
+S'2013-03-21T20:00:00.000000-0500'
+p1090
+sg4
+VSynapse presents NeurOlympics
+p1091
+sg6
+VNeurOlympics is a trivia game competition on the topic of neuroscience. Teams of four can sign up by emailing UTsynapse@gmail.com, or come cheer on your friends. Prizes awarded and food served to teams and attendees.
+p1092
+sg8
+S'2013-03-21T18:00:00.000000-0500'
+p1093
+sg10
+Nsg12
+VHackerman Building (NHB) 1.720
+p1094
+sa(dp1095
+g2
+S'2013-03-28T18:15:00.000000-0500'
+p1096
+sg4
+VEnergy innovation investing is UT Energy Symposium topic 
+p1097
+sg6
+VBob Metcalfe presents "Investing in Energy Innovation" at this week's meeting of the UT Energy Symposium. Metcalfe is professor of innovation and Murchison Fellow of Free Enterprise in the Cockrell School of Engineering at UT Austin. Cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1098
+sg8
+S'2013-03-28T17:15:00.000000-0500'
+p1099
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1100
+sg12
+VMezes Hall (MEZ) 1.306
+p1101
+sa(dp1102
+g2
+S'2013-04-02T20:30:00.000000-0500'
+p1103
+sg4
+VPublic health career & internship fair announced
+p1104
+sg6
+VAttend a career tabling event with public health schools, NGOs, nonprofits and government organizations. Learn about internship opportunities and enjoy free food and raffle tickets (prizes given out during carnival). Attendees are encouraged to bring resumes.\u000a\u000aSource\u000ahttp://www.texaspublichealth.org/?p=1002
+p1105
+sg8
+S'2013-04-02T17:30:00.000000-0500'
+p1106
+sg10
+Vhttp://www.texaspublichealth.org/?p=1002
+p1107
+sg12
+VStudent Activity Center (SAC), ballroom
+p1108
+sa(dp1109
+g2
+S'2013-04-04T19:00:00.000000-0500'
+p1110
+sg4
+VDept. of Computer Science hosts Sandia National Labs
+p1111
+sg6
+VThe Department of Computer Science hosts Sandia National Labs, with a presentation on the benefits of attending graduate school. Open to current UT CS students. RSVP to under-info@cs.utexas.edu. Pizza will be served.
+p1112
+sg8
+S'2013-04-04T18:00:00.000000-0500'
+p1113
+sg10
+Nsg12
+VApplied Computational Engineering & Sciences Building (ACE) 2.402
+p1114
+sa(dp1115
+g2
+S'2013-04-10T20:00:00.000000-0500'
+p1116
+sg4
+VIntific representative speaks at EGaDS general meeting
+p1117
+sg6
+VA representative from Intific speaks at the upcoming EGaDS meeting. Intific builds and delivers effective software that is technologically aggressive. This presentation will look at what's next in the areas of immersive technologies, game-based training and education, and neuroscience, such as mind-controlled games. Free pizza and soft drinks served.
+p1118
+sg8
+S'2013-04-10T19:00:00.000000-0500'
+p1119
+sg10
+Nsg12
+VUniversity Teaching Center (UTC) 3.102
+p1120
+sa(dp1121
+g2
+S'2013-04-11T18:15:00.000000-0500'
+p1122
+sg4
+VNuclear scientist to speak on unlocking energy innovation
+p1123
+sg6
+VRichard Lester, head of the Department of Nuclear Science and Engineering at MIT, gives a talk titled "Unlocking Energy Innovation" at this week's meeting of the UT Energy Symposium. Cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1124
+sg8
+S'2013-04-11T17:15:00.000000-0500'
+p1125
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1126
+sg12
+VMezes Hall (MEZ) 1.306
+p1127
+sa(dp1128
+g2
+S'2013-04-18T18:15:00.000000-0500'
+p1129
+sg4
+VEnergy Open House and Networking event held
+p1130
+sg6
+VThe Energy Institute invites students and faculty to a networking event on the latest news in energy research and teaching on campus. Pizza served.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1131
+sg8
+S'2013-04-18T17:15:00.000000-0500'
+p1132
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1133
+sg12
+VMezes Hall (MEZ) 1.306
+p1134
+sa(dp1135
+g2
+S'2012-10-12T19:30:00.000000-0500'
+p1136
+sg4
+VTexas soccer plays Texas Tech
+p1137
+sg6
+VThe Longhorn soccer team takes on the Texas Tech Red Raiders. Teacher and Government Employee Appreciation Day ticket price is &#36;4 (general admission). Call 512-232-3865 to purchase by noon, Friday, Oct. 12; advance sale only. Canned food donations accepted (donate five for prizes, while supplies last).\u000a\u000aSource\u000ahttp://texassports.com
+p1138
+sg8
+S'2012-10-12T17:30:00.000000-0500'
+p1139
+sg10
+Vhttp://texassports.com
+p1140
+sg12
+VMike A. Meyers Stadium & Soccer Field
+p1141
+sa(dp1142
+g2
+S'2012-10-17T18:00:00.000000-0500'
+p1143
+sg4
+VFIMRC, children's medical relief group, meets
+p1144
+sg6
+VAttend the second meeting of UT's chapter of the Foundation for International Children's Medical Relief, a national organization dedicated to providing access to medical care for children in developing countries around the world. Food is provided and all students are welcome.\u000a\u000aSource\u000ahttp://sites.google.com/site/utfimrc/
+p1145
+sg8
+S'2012-10-17T17:00:00.000000-0500'
+p1146
+sg10
+Vhttp://sites.google.com/site/utfimrc/
+p1147
+sg12
+VRobert Lee Moore Hall (RLM) 5.114
+p1148
+sa(dp1149
+g2
+S'2012-10-24T18:00:00.000000-0500'
+p1150
+sg4
+VPhysical Education Teacher Education holds student round-up
+p1151
+sg6
+VThe Physical Education Teacher Education (PETE) program announces the 7th annual PETE student round-up, bringing PETE faculty and students together to reach out to those interested in a career in physical education. Drop by for advising at AHG 105 or 125 from 8 a.m.-noon and 1-3 p.m. The Round-Up social begins at 4 in AHG 136, featuring food and fun.\u000a\u000a\u000a\u000a\u000a\u000aSource\u000ahttp://www.edb.utexas.edu/education/departments/khe/
+p1152
+sg8
+S'2012-10-24T08:00:00.000000-0500'
+p1153
+sg10
+Vhttp://www.edb.utexas.edu/education/departments/khe/
+p1154
+sg12
+VAnna Hiss Gym (AHG) 136, 105, 125
+p1155
+sa(dp1156
+g2
+S'2012-10-24T18:00:00.000000-0500'
+p1157
+sg4
+VFIMRC, children's medical relief group, meets
+p1158
+sg6
+VAttend the third meeting of UT's chapter of the Foundation for International Children's Medical Relief, a national organization dedicated to providing access to medical care for children in developing countries around the world. Food is provided and all students are welcome.\u000a\u000aSource\u000ahttp://sites.google.com/site/utfimrc/
+p1159
+sg8
+S'2012-10-24T17:00:00.000000-0500'
+p1160
+sg10
+Vhttp://sites.google.com/site/utfimrc/
+p1161
+sg12
+VRobert Lee Moore Hall (RLM) 5.114
+p1162
+sa(dp1163
+g2
+S'2012-10-31T17:00:00.000000-0500'
+p1164
+sg4
+VEllen Wartella discusses food marketing & childhood obesity
+p1165
+sg6
+VEllen Wartella, professor of communication, human development/sociology and psychology at Northwestern University, presents the 2012 Wayne Danielson Lecture, "Food Marketing and the Childhood Obesity Crisis." Wartella, former dean of the College of Communication, discusses the extent of the childhood obesity crisis and the food environment in American society.\u000a\u000aSource\u000ahttp://communication.utexas.edu/events/ellen-wartella-presents-food-marketing-and-childhood-obesity-crisis-oct-31
+p1166
+sg8
+S'2012-10-31T16:00:00.000000-0500'
+p1167
+sg10
+Vhttp://communication.utexas.edu/events/ellen-wartella-presents-food-marketing-and-childhood-obesity-crisis-oct-31
+p1168
+sg12
+VBelo Center for New Media (BMC), auditorium 2.106
+p1169
+sa(dp1170
+g2
+S'2012-11-02T21:00:00.000000-0500'
+p1171
+sg4
+VTexas volleyball plays Kansas State
+p1172
+sg6
+VTexas volleyball faces the Kansas State Wildcats in a Big 12 matchup. Canned Food Drive: Donate five nonperishable canned food items and receive a free Texas Sports DVD and Whataburger coupon (while supplies last).\u000a\u000aSource\u000ahttp://texassports.com
+p1173
+sg8
+S'2012-11-02T19:00:00.000000-0500'
+p1174
+sg10
+Vhttp://texassports.com
+p1175
+sg12
+VGregory Gym (GRE)
+p1176
+sa(dp1177
+g2
+S'2012-11-05T18:30:00.000000-0600'
+p1178
+sg4
+VTexas Nutrition Career Panel held
+p1179
+sg6
+VJoin Texas Nutrition for its annual Career Panel. Hear from speakers who work in the nutrition field and learn what a career in this field looks like. Food served.\u000a\u000aSource\u000ahttp://texasntr.com/
+p1180
+sg8
+S'2012-11-05T17:00:00.000000-0600'
+p1181
+sg10
+Vhttp://texasntr.com/
+p1182
+sg12
+VGearing Hall (GEA) 105
+p1183
+sa(dp1184
+g2
+S'2012-11-07T18:00:00.000000-0600'
+p1185
+sg4
+VFIMRC children's medical relief group meets
+p1186
+sg6
+VAttend the third meeting of UT's chapter of the Foundation for International Children's Medical Relief, a student organization dedicated to providing access to medical care for children in developing countries around the world. Learn about local and international volunteering opportunities as well as leadership opportunities. Food provided.\u000a\u000aSource\u000ahttp://sites.google.com/site/utfimrc/
+p1187
+sg8
+S'2012-11-07T17:00:00.000000-0600'
+p1188
+sg10
+Vhttp://sites.google.com/site/utfimrc/
+p1189
+sg12
+VRobert Lee Moore Hall (RLM) 5.114
+p1190
+sa(dp1191
+g2
+S'2012-11-10T11:00:00.000000-0600'
+p1192
+sg4
+VSchool of Nursing tailgate announced
+p1193
+sg6
+VThe School of Nursing hosts its first-ever tailgate party prior to the Texas vs. Iowa State game. Kickoff is at 11 a.m. Come for fun, food and prizes.\u000a\u000aSource\u000ahttp://www.utexas.edu/nursing/news/2012/tailgate.html
+p1194
+sg8
+S'2012-11-10T09:00:00.000000-0600'
+p1195
+sg10
+Vhttp://www.utexas.edu/nursing/news/2012/tailgate.html
+p1196
+sg12
+VSchool of Nursing, 1710 Red River
+p1197
+sa(dp1198
+g2
+S'2012-11-28T18:00:00.000000-0600'
+p1199
+sg4
+VFIMRC children's medical relief group meets
+p1200
+sg6
+VAttend the fourth meeting of UT's chapter of the Foundation for International Children's Medical Relief, a student organization dedicated to providing access to medical care for children in developing countries around the world. This week, we welcome a speaker from Princeton Review and hold officer elections. Food provided.\u000a\u000aSource\u000ahttp://sites.google.com/site/utfimrc/
+p1201
+sg8
+S'2012-11-28T17:00:00.000000-0600'
+p1202
+sg10
+Vhttp://sites.google.com/site/utfimrc/
+p1203
+sg12
+VRobert Lee Moore Hall (RLM) 5.114
+p1204
+sa(dp1205
+g2
+S'2012-12-12T17:00:00.000000-0600'
+p1206
+sg4
+VStudy at Victory @ Gregory Gym, free coffee included
+p1207
+sg6
+VStudents are invited to enjoy free coffee while studying at Victory @ Gregory Gym, the retail outlet on the first floor of the gym. There's plenty of quiet space and even four iPads available for use by students. No purchase is necessary and space is available on a first-come, first-served basis.\u000a\u000aSource\u000ahttp://www.utrecsports.org
+p1208
+sg8
+S'2012-12-12T12:00:00.000000-0600'
+p1209
+sg10
+Vhttp://www.utrecsports.org
+p1210
+sg12
+VGregory Gym (GRE), Victory, 1st floor
+p1211
+sa(dp1212
+g2
+S'2013-01-26T21:00:00.000000-0600'
+p1213
+sg4
+VMen's basketball plays Texas Tech
+p1214
+sg6
+VTexas men's basketball hosts the Texas Tech Red Raiders. Canned Food Drive: Bring five canned goods and receive a free Texas Athletics DVD and a coupon for a free Whataburger; game day only. Teacher Appreciation Night discount available for teachers and staff. Call 512-232-3865 for more information before noon Sunday.\u000a\u000aSource\u000ahttp://texassports.com
+p1215
+sg8
+S'2013-01-26T19:00:00.000000-0600'
+p1216
+sg10
+Vhttp://texassports.com
+p1217
+sg12
+VFrank Erwin Center
+p1218
+sa(dp1219
+g2
+S'2013-04-30T14:00:00.000000-0500'
+p1220
+sg4
+VS.A.F.E. Street Carnival benefits SafePlace
+p1221
+sg6
+VThe sisters of Sigma Phi Omega host the S.A.F.E. Street Carnival to raise funds and awareness for victims of domestic violence. Join us for fun games and free food and drinks. Raffle prizes include gift cards to local eateries and more. Donuts and a dunking booth round out the event.\u000a\u000aSource\u000ahttps://www.facebook.com/events/544225398963216/544225402296549/?notif_t=like
+p1222
+sg8
+S'2013-04-30T10:30:00.000000-0500'
+p1223
+sg10
+Vhttps://www.facebook.com/events/544225398963216/544225402296549/?notif_t=like
+p1224
+sg12
+VGregory Gym Plaza (GRE)
+p1225
+sa(dp1226
+g2
+S'2013-05-07T17:00:00.000000-0500'
+p1227
+sg4
+VReaSports hosts Splash Bash Study Break
+p1228
+sg6
+VUT students are invited to take a break from the books at the beautiful Gregory Gym Aquatic Complex. Relax by the pool with DJ music, food and snack bags, a chair massage, group meditation classes, a water Zumba exercise class and more. Bring your swimsuit. All events free.\u000a\u000aSource\u000ahttp://www.utrecsports.org
+p1229
+sg8
+S'2013-05-07T14:00:00.000000-0500'
+p1230
+sg10
+Vhttp://www.utrecsports.org
+p1231
+sg12
+VGregory Gym (GRE), Aquatic Complex
+p1232
+sa(dp1233
+g2
+S'2012-10-11T18:15:00.000000-0500'
+p1234
+sg4
+VNRG Energy president of Electric Vehicles speaks at program
+p1235
+sg6
+VArun Banskota, president of Electric Vehicle Services at NRG Energy, presents "Electric Vehicles and the EVGo Program" at this week's Energy Symposium. Cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1236
+sg8
+S'2012-10-11T17:15:00.000000-0500'
+p1237
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1238
+sg12
+VMezes Hall (MEZ) 1.306
+p1239
+sa(dp1240
+g2
+S'2012-10-18T18:15:00.000000-0500'
+p1241
+sg4
+VEnergy VP to speak on gas-power nexus
+p1242
+sg6
+VEric Bradley, vice president for strategy at IPR-GDF Suez North America, gives a talk titled "Gas-Power Nexus: A Closer Look at the Gas Value-Chain in Power Production" at this week's UT Energy Symposium. Cookies served at 5 p.m.\u000a\u000a\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1243
+sg8
+S'2012-10-18T17:15:00.000000-0500'
+p1244
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1245
+sg12
+VMezes Hall (MEZ) 1.306
+p1246
+sa(dp1247
+g2
+S'2012-11-08T18:15:00.000000-0600'
+p1248
+sg4
+VTexas Tribune reporter speaks on energy and the media
+p1249
+sg6
+VKate Galbraith, energy and environment reporter for the Texas Tribune, presents a talk titled "Energy in Media: A Journalist's Perspective on Covering Energy" at this week's UT Energy Symposium. Cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1250
+sg8
+S'2012-11-08T17:15:00.000000-0600'
+p1251
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1252
+sg12
+VMezes Hall (MEZ) 1.306
+p1253
+sa(dp1254
+g2
+S'2013-02-08T21:00:00.000000-0600'
+p1255
+sg4
+VMr. McCombs pageant announced
+p1256
+sg6
+VMr. McCombs is a male beauty pageant that raises money and canned goods for charity. Contestants from various McCombs student organizations come together to compete for the title of "Mr. McCombs" based on talent, personality, and audience support. Winners choose the charity of their choice to give to upon winning. All canned goods donated to the Capital Area Food Bank.\u000a\u000aSource\u000ahttp://www.mccombs.utexas.edu/BBA/OSL/UBC/Programs/McCombs-Community-Programs/Mr-McCombs.aspx
+p1257
+sg8
+S'2013-02-08T19:00:00.000000-0600'
+p1258
+sg10
+Vhttp://www.mccombs.utexas.edu/BBA/OSL/UBC/Programs/McCombs-Community-Programs/Mr-McCombs.aspx
+p1259
+sg12
+VStudent Activity Center (SAC), auditorium
+p1260
+sa(dp1261
+g2
+S'2013-02-19T20:00:00.000000-0600'
+p1262
+sg4
+VMoney Talks! presents talk by Beto Pallares
+p1263
+sg6
+VMoney Talks! welcomes Beto Pallares, co-founder in 2009 of Cottonwood Capital Partners, the general partner of Cottonwood Technology Fund, a seed and early-stage venture fund with headquarters in El Paso, TX. Food and drinks served following the program.\u000a\u000aSource\u000ahttp://tinyurl.com/EIR-Speakers-Feb-19
+p1264
+sg8
+S'2013-02-19T17:30:00.000000-0600'
+p1265
+sg10
+Vhttp://tinyurl.com/EIR-Speakers-Feb-19
+p1266
+sg12
+VAT&T Executive Education and Conference Center (ATT) 201
+p1267
+sa(dp1268
+g2
+S'2013-03-07T18:15:00.000000-0600'
+p1269
+sg4
+VLow-carbon technology transfers discussed in energy talk
+p1270
+sg6
+VVarun Rai, assistant professor of public affairs and mechanical engineering at UT Austin, speaks at this week's UT Energy Symposium. His talk is titled "International Low-Carbon Technology Transfers: Do Intellectual Property Regimes Matter?" Cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1271
+sg8
+S'2013-03-07T17:15:00.000000-0600'
+p1272
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1273
+sg12
+VMezes Hall (MEZ) 1.306
+p1274
+sa(dp1275
+g2
+S'2013-04-04T18:15:00.000000-0500'
+p1276
+sg4
+VTalk addresses renewables and efficiency in the energy mix 
+p1277
+sg6
+VJim Davis, president of Chevron Energy Solutions, presents this week's UT Energy Symposium talk, titled "Integrating Renewables and Efficiency in the Energy Mix at Chevron." Cookies served at 5 p.m.\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1278
+sg8
+S'2013-04-04T17:15:00.000000-0500'
+p1279
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1280
+sg12
+VMezes Hall (MEZ) 1.306
+p1281
+sa(dp1282
+g2
+S'2013-04-25T18:15:00.000000-0500'
+p1283
+sg4
+VScientist discusses renewable electricity markets
+p1284
+sg6
+VRyan Wiser, staff scientist and deputy groupleader in the Electricity Markets and Policy Group at Lawrence Berkeley National Laboratory, is the guest speaker at this week's UT Energy Symposium. Wiser's talk is titled "United States Renewable Electricity Futures: Are High Penetrations Possible?" Cookies served at 5 p.m.\u000a\u000a\u000a\u000aSource\u000ahttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1285
+sg8
+S'2013-04-25T17:15:00.000000-0500'
+p1286
+sg10
+Vhttp://energy.utexas.edu/index.php?option=com_content&view=article&id=35&Itemid=147
+p1287
+sg12
+VMezes Hall (MEZ) 1.306
+p1288
+sa.
